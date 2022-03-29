@@ -9,3 +9,4 @@
 - [A list of popular github projects related to deep learning.](http://github.com/aymericdamien/TopDeepLearning) - لیستی از پروژه های معروف یادگیری ژرف در گیت هاب
 - [Larn things about deep learning and AI.](http://wildml.com) - سایتی برای آموزش یادگیری عمیق و مسایل مختلف هوش مصنوعی و پردازش زبان طبیعی
 - [Deep Learning tutorials, projects and more](http://github.com/ChristosChristofidis/awesome-deep-learning) - آموزش های و پروژه ها وکلی چیز دیگه درباره یادگیری ژرف
+- [Deep Learning tutorials with Python.](http://github.com/sachinruk/deepschool.io) - آموزش interactive یادگیری عمیق با پایتون

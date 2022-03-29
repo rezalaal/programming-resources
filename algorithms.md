@@ -9,3 +9,4 @@
 - [Algorithms and data structures in Swift, with explanations!](http://github.com/raywenderlich/swift-algorithm-club) - یادگیری الگوریتم و داده ساختارها با زبان swift
 - [useful algorithms with modern JS.](http://github.com/jiayihu/pretty-algorithms) - پیاده سازی الگوریتم های پرکاربرد به همراه مثال های آنها در دنیای واقعی
 - [Data Structure Visualizations.](http://cs.usfca.edu/~galles/visualization/Algorithms.html) - آموزش داده ساختارها و مفاهیم الگوریتمی به صورت بصری و همراه با شکل
+- [Useful Algorithms implemented in Python.](http://github.com/TheAlgorithms/Python) - الگوریتم های پرکاربرد پیاده سازی شده با زبان پایتون

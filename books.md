@@ -40,3 +40,4 @@
 - [16 awesome free ebooks for data science](http://jadi.net/2015/07/how-to-become-a-data-scientist) - ۱۶ کتاب رایگان برای هر کسی که میخواد دانشمند داده بشه
 - [Read Oreilly books online](http://chimera.labs.oreilly.com) - تعدادی از کتابهای Oreilly را بصورت رایگان و آنلاین بخوانید
 - [PHP the right way](http://novid.github.io/php-the-right-way) -  کتاب پی اچ پی از راه درستش (همراه با نسخه فارسی)
+- [Reddit's favorite books to learn about programming](http://redditfavorites.com/books/programming) - محبوب ترین کتاب ها از نگاه reddit بازان برنامه نویس :)

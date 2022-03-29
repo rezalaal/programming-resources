@@ -59,3 +59,4 @@
 - [awesome Python notebooks.](http://github.com/donnemartin/data-science-ipython-notebooks) - نت بوک های آماده پایتون برای یادگیری ژرف و علم داده
 - [Python tips and tricks.](http://book.pythontips.com/en/latest/index.html) - نکات آموزنده در زبان برنامه نویسی پایتون
 - [inspire women to fall in love with programming](https://djangogirls.org) - سایتی برای تشویق خانم ها به برنامه نویسی و دارای آموزش های مختلف از جمله django
+- [Learn Python through doing practical projects.](http://newcoder.io) - یادگیری بهتر پایتون با چند پروژه عملی و جالب

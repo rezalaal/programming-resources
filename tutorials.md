@@ -24,3 +24,4 @@
 - [A wiki of Devops Tools, Tutorials and Scripts](http://github.com/Leo-G/DevopsWiki) - آموزشها و ابزارها و اسکریپت هایی برای DevOps
 - [.NET Framework tutorials and tips in persian](http://dotnettips.info) - مطالب مفید برنامه نویسی دات نت  ، فریمورک های جاوا اسکریپت و ...
 - [lynda programming tutorial videos](http://tut-dl.com) - سایتی پر از ویدیوهای آموزشی سایت لیندا
+- [Curated list of project-based tutorials.](http://github.com/tuvtran/project-based-learning) - آموزش های پروژه محور برای انواع زبانهای برنامه نویسی

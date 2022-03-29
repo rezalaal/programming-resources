@@ -8,3 +8,4 @@
 - [coding interview online training system](http://lintcode.com) - تمرین های مصاحبه برنامه نویسی بصورت انلاین با سوالات متنوع همراه سوالات شرکت های مختلف
 - [A list of helpful front-end related questions.](http://github.com/h5bp/Front-end-Developer-Interview-Questions) - لیستی از سوالات مفید مرتبط با مصاحبه های برنامه نویسی فرانت اند
 - [Everything you need to kick ass on your coding interview](https://github.com/andreis/interview) - منابعی که برای شرکت در یک مصاحبه کاری برنامه نویسی به کار می آیند
+- [prepare yourself for a job interview with Ruby.](http://github.com/sagivo/algorithms) - سوال و جواب های مخصوص مصاحبه برنامه نویسی با زبان Ruby

@@ -15,3 +15,5 @@
 - [Easy-to-read, quick reference for JS best practices](http://jstherightway.org) - برترین روشهای کدزنی و منابع آموزشی در جاوااسکریپت 
 - [Interactive game to learn Javascript](http://alexnisnevich.github.io/untrusted) - یک بازی جالب برای یادگیری برنامه نویسی (جاوااسکریپت)
 - [Admin dashboard template based onAngular 4+, Bootstrap 4.](http://akveo.com/ngx-admin) - داشبورد ادمین اوپن سورس ساخته شده با انگولار و بوت استرپ 
+- [Learn Full stack development.](http://coursetro.com) - این سایت ویدیوها و آموزش های full stack خوبی بخصوص برای angular دارد.
+- [angular.js free template blur admin](http://github.com/akveo/blur-admin) - داشبورد اوپن سورس ساخته شده با angularjs 

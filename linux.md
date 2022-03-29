@@ -29,3 +29,6 @@
 - [collection of icons using only css !](http://cssicon.space) - مجموعه ای از آیکون های جالب که تنها با استفاده از CSS درست شده اند !!
 - [over 140 zsh themes for terminal](http://github.com/robbyrussell/oh-my-zsh) - با oh-my-zsh رنگ و بوی تازه ای به ترمینال خود بدهید :)
 - [Debian 8 handbook](http://debian-handbook.info/browse/fa-IR/stable) - کتاب جامع توزیع دبیان که از نصب اولیه تا تنظیمات سرویس‌ها را شامل می‌شود
+- [Mr.Robot Explain commands.](http://medium.com/@ryankazanciyan) - توضیحات دستورات لینوکس و ... که در سریال MR.robot اجرا میشوند.
+- [AWESOME Linux applications and tools.](http://voluong.gitbooks.io/awesome-linux-software/content) - مجموعه ای از بهترین برنامه ها و ابزار برای سیستم عامل لینوکس 
+- [Command-line interface to request a ride with Snapp](https://github.com/kharazi/snapp-cli) - با استفاده از ترمینال اسنپ بگیرید.

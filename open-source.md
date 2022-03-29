@@ -6,4 +6,4 @@
 - [Guide on Choose an open source license](http://choosealicense.com) - یک راهنمای خوب برای انتخاب license های اوپن سورس
 - [all open source google projects in one place](http://opensource.google.com) - به تمام پروژه های متن باز گوگل در این سایت دسترسی دارید
 - [help out favorite open source projects.](http://codetriage.com) - به پروژه های متن باز معروف برای رفع کردن مشکلاتشان کمک کنید و برنامه نویس بهتری شوید.
-
+- [Financial guide for open source](http://github.com/nayafia/lemonade-stand) - راه و روش کسب سرمایه و درآمد برای پروژه های متن باز

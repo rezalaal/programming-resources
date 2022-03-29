@@ -24,3 +24,4 @@
 - [security research laboratory](http://vulnerability-lab.com) - سایتی که محققان امنیتی در آن باگ های نرم افزارهای مختلف را گزارش می کنند
 - [free-available articles and documents in web application security](http://owasp.org) - سایتی پر از مقالات و منابع امنیتی برای طراحی وب اپلیکیشن ها و ...
 - [Crowdsourced Application Security Testing](http://bugcrowd.com) - سایتی برای گزارش باگ های سایت های مختلف و دریافت جایزه — bug bounty
+- [Learn about a variety of computer security](http://exploit-exercises.com) - مسایل و چالش های مختلف امنیتی دنیای کامپیوتر 

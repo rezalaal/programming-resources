@@ -3,3 +3,49 @@
 - [Main](./README.md) - بازگشت به صفحه اصلی 
 - [python programming Tutorial](http://www.programiz.com/python-programming) - سایتی برای یادگیری زبان برنامه نویسی پایتون
 - [A byte of Python online version](http://python.swaroopch.com) - کتاب آنلاین a byte of python
+- [python learning resources](https://github.com/PyBulls/learning-resources) - منابع آموزشی پایتون
+- [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/course/interactivepython1) - آموزش پایتون قسمت ۱ سایت کورسرا
+- [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) - آموزش پایتون قسمت ۲ سایت کورسرا
+- [Python Programming Guides and Tutorials](http://pythoncentral.io) - آموزش های دسته بندی شده مربوط به زبان پایتون
+- [8 essential python interview questions](https://www.toptal.com/python/interview-questions) - ۸ سوال جالب برای مصاحبه کاری زبان پایتون
+- [Evolution of python programmer](https://gist.github.com/fmeyer/289467) - کد برنامه فاکتوریل را برنامه نویس های مختلف به زبان پایتون چگونه مینویسند؟  :)
+- [18 Resources to Learn Python Programming Language](http://codecondo.com/10-ways-to-learn-python) - ۱۸ منبع یادگیری برای زبان پایتون
+- [directory of reusable apps, sites, tools for Django projects](https://www.djangopackages.com) - لیستی از اپ های قابل استفاده در پروژه های جنگو
+- [a list of awesome things you didn’t know you would need](http://easy-python.readthedocs.org/en/latest) - منابع و کتابخانه های مفید برای پایتون
+- [Weekly Python Newsletter containing Python Articles dlivered in your inbox.](http://importpython.com/newsletter) - هفته نامه خبری پایتون پر از مطالب پایتونی
+- [weekly newsletter featuring articles , jobs etc related to Python.](http://www.pythonweekly.com) - هقته نامه خبری پایتون شامل منابع و مطالب پایتونی
+- [curated List of Python Tutorials and its famous modules](http://www.bogotobogo.com/python/pytut.php) - لیستی از آموزش های پایتون و کتابخانه های مختلف آن
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) - استیل کدزدنی که گوگل برای پروژه های اوپن سورس خودش از اونها پیروی میکنه
+- [Python anti patterns](http://www.slideshare.net/rikbyte/python-antipatterns) - باید و نبایدهایی که در پایتون باید رعایت کرد
+- [django tutorial in only 6 part](https://docs.djangoproject.com/en/1.9/intro/tutorial01) - یادگیری کلیات چارچوب جنگو با استفاده از ۶ آموزش مختصر و مفید
+- [The Best of the Best Practices for python](https://gist.github.com/sloria/7001839) - بهترین تجربیات کدزنی در پایتون
+- [python worst practice](http://www.slideshare.net/pydanny/python-worst-practices) - بدترین روش های کدزنی پایتون و راه حل برای جلوگیری از آنها
+- [some cool Python tricks](http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks) - چند ترفند جالب در زبان پایتون
+- [100+ Python challenging programming exercises](http://github.com/zhiwehu/Python-programming-exercises) - 100 تمرین برای یادگیری پایتون
+- [Interactive Python Tutorial](http://www.markandclick.com) - یادگیری تعاملی پایتون (تست کد در مرورگر برای انجام آزمون و خطا)
+- [good site for learn django](http://elweb.co/want-to-learn-django-start-here) - اگه میخواید فریمورک جنگو رو یاد بگیرید این سایت خوبیه
+- [11 python resources](http://opensource.com/education/16/4/teaching-python-and-more-with-oer) - ۱۱ منبع خوب آموزشی برای یادگیری پایتون
+- [pycon US 2016 videos](http://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos) - ویدیوهای پایکان ۲۰۱۶ آمریکا
+- [platform for learning bioinformatics through problem solving.](http://rosalind.info) - یادگیری بیوانفورماتیک با رویکرد حل مساله
+- [Python Koans - Learn Python through TDD](http://github.com/gregmalcolm/python_koans) - یادگیری پایتون با روش  تست محور به نام koans که از زبان روبی آغاز شد
+- [A place where you can learn how to code with the python language](http://penjee.com) - یادگیری مقدمات برنامه نویسی با استفاده از زبان پایتون با انجام بازی
+- [python programming tutorials](http://youtube.com/user/sentdex/playlists) - یکی از بهترین کانال های آموزشی یوتیوب برای پایتون
+- [django security best practices](http://slideshare.net/spinlai/django-workshop-securitybestpractices) - بهترین تجربیات امنیتی در فریمورک django
+- [The 10 Most Common Mistakes That Python Developers Make](http://toptal.com/python/top-10-mistakes-that-python-programmers-make) - ۱۰ اشتباه رایج برنامه نویسی پایتون
+- [this tool allows you to create and share documents that contain live code.](http://jupyter.org) - وب اپلیکیشنی برای ساخت محیط ایجاد و اجرای کد به صورت آنلاین
+- [best security practices specially for Django](http://coffeeonthekeyboard.com/best-basic-security-practices-especially-with-django-697) - بهترین تجربیات امنیتی مخصوصا برای جنگو
+- [the world's largest API repository](http://programmableweb.com/apis/directory) - در این سایت میتونید کلی API براساس پروتکل ها و category پیدا کنید
+- [persian python tutorials](http://pysocial.com) - آموزش های پایتون به زبان فارسی این سایت برای مبتدیان میتواند یکی از منابع نسبتا خوب به شمار رود البته بعضی صفحاتش خالی است
+- [Python interview questions](http://www.tutorialspoint.com/python/python_interview_questions.htm) - سوالات متنوع مصاحبه برنامه نویسی با پایتون
+- [Mouse vs Python. A good python blog](http://blog.pythonlibrary.org) - یک بلاگ خوب برای علاقه مندان به برنامه نویسی پایتون
+- [python tutorials](http://pythonspot.com) - آموزش های خوبی برای زبان برنامه نویسی پایتون
+- [complete list of libraries and frameworks you need in python](http://awesome-python.com) - لیست کاملی از کتابخانه ها و فریمورک های زبان برنامه نویسی پایتون
+- [interactive Python coding challenges](http://github.com/donnemartin/interactive-coding-challenges) - سوالات متنوع برای تمرین برنامه نویسی پایتون
+- [Curated list of python libraries and frameworks](http://github.com/vinta/awesome-python) - مجموعه ای از کتابخانه ها و فریمورک های نوشته شده برای زبان پایتون
+- [Python Data Science Handbook](http://github.com/jakevdp/PythonDataScienceHandbook) - کتاب رایگانی برای یادگیری علوم داده با استفاده از زبان پایتون
+- [boilerplate app for Django web applications](http://github.com/DrkSephy/django-hackathon-starter) - کدهای آماده برای sign in کردن با سایت های مختلف برای جنگو
+- [python string format refrence](http://pyformat.info) - اگر پایتون کار  باشید حتما با format کار کرده اید این سایت توضیحات کاملی را درمورد نحوه استفاده از آن داده است. 
+- [python and django tutorials](http://simpleisbetterthancomplex.com) - آموزش های پایتون و فریمورک جنگو
+- [interactive python challenges with solution](http://github.com/donnemartin/interactive-coding-challenges)  - سوالات پایتونی interactive به همراه جواب
+- [Image processing tutorials with python and opencv](http://pyimagesearch.com) - یادگیری پردازش تصویر و بینایی ماشین با پایتون و opencv
+- [A collection of useful Python scripts and tutorials](https://github.com/rasbt/python_reference) - مجموعه ای از آموزش ها و اسکریپت های کاربردی برای زبان پایتون

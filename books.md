@@ -2,3 +2,29 @@
 
 - [Main](./README.md) - بازگشت به صفحه اصلی 
 - [download CS related books](http://www.allitebooks.com) - سایتی برای دانلود کتابهای مرتبط با برنامه نویسی
+- [5 Python books for beginners](http://www.codepancake.com/5-python-books-for-beginners) -  ۵ کتاب برای یادگیری زبان برنامه نویسی پایتون
+- [cyber security books :)](https://github.com/JpGallegos/CySecBooks) - کتابهای مربوط به مباحث امنیتی نرم افزار
+- [professional free IT ebooks](http://www.free-it-ebook.com) - دانلود کتابهای رایگان و مفید برنامه نویسی
+- [awesome python books](http://github.com/Junnplus/awesome-python-books) - بهترین کتاب های پایتون
+- [good FTP sites for python (and so on) resources](http://t2mh.com/?dir=python) - سایتی پر از کتاب هاب برنامه نویسی برای پایتون (و چیزهای دیگه)
+- [free online book for learning php](http://phptherightway.com) - کتاب رایگان آنلاین برای یادگیری php
+- [modern introduction to javascript programming](http://eloquentjavascript.net) - کتاب آنلاین رایگان برای آموزش جاوااسکریپت
+- [Most influential books for programmers](https://github.com/chhantyal/influential-cs-books) - لیستی از کتاب های خوب و مفید برای برنامه نویسان 
+- [automate the boring stuff with python](http://automatetheboringstuff.com) - کتاب خوبی برای آموزش زبان برنامه نویسی پایتون
+- [mastering nodejs => Open Source Node eBook](http://visionmedia.github.io/masteringnode) - کتاب خوبی برای یادگیری node.js
+-[Introduction to Programming with Ruby (free)](http://launchschool.com/books/ruby) - کتاب آنلاین رایگان مقدمه ای بر برنامه نویسی زبان روبی
+- [Books every programmer should read](http://Stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) - کتاب هایی که هر برنامه نویس باید بخواند:)
+- [Ebooks and Elearning for programming](http://scanlibs.com) - سایتی برای دانلود کتاب های برنامه نویسی
+- [reverse engineering free book by dennis yurichev.](http://beginners.re) - یک کتاب خوب و رایگان برای علاقه مندان به مهندسی معکوس نرم افزار
+- [download articles and ebooks for free](http://libgen.io) - دانلود انواع و اقسام مقالات و کتاب های مختلف بصورت رایگان
+- [good online book for learn C language](http://buildyourownlisp.com) - یک کتاب خوب آنلاین برای یادگیری زبان C با روشی متفاوت
+- [learn latex with wikibooks](http://en.wikibooks.org/wiki/LaTeX) - یکی از کتابهای خوب wikibooks از پروژه های ویکی مدیا درباره یادگیری LATEX
+- [free programming ebook downloads ](http://smtebooks.com) - دانلود رایگان کتاب های مرتبط با برنامه نویسی
+- [good book for learning linux command line](http://linuxcommand.org/tlcl.php) - کتاب خوبی برای یادگیری دستورات ترمینال لینوکس
+- [learn haskell language online](http://learnyouahaskell.com) - کتاب مفیدی برای یادگیری زبان برنامه نویسی haskell
+- [free computer books](http://onlineprogrammingbooks.com) - دانلود کتابهای برنامه نویسی و کامپیوتری
+- [learn ruby through graphical online book](http://poignant.guide) - کتاب آنلاینی برای یادگیری زبان روبی
+- [django tutorial with deploy in server](http://aparat.com/v/lrJ8w) - آموزش جنگو بصورت پروژه محور توسط جادی و دیپلوی آن روی یک سرور
+- [Download programming books ](http://it-ebooks.info) - سایتی برای دانلود کتاب های مرتبط با برنامه نویسی
+- [a book about how computers work](http://fastchip.net/howcomputerswork/p1.html) - کتابی که خیلی خلاصه و مفید در مورد اینکه کامپیوترها چگونه کار میکنند توضیح داده است.
+- [online book for data sciences via R](http://ismayc.github.io/moderndiver-book) - کتاب آنلاین رایگان برای یادگیری علوم داده با استفاده از زبان برنامه نویسی R

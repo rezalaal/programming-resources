@@ -1,0 +1,21 @@
+# Linux 
+
+- [Main](./README.md) - بازگشت به صفحه اصلی 
+- [LPIC Video courses by jadi mirmirani](http://lpic.mp3yab.ir) - ویدیوهای آموزشی لینوکس برای امتحان lpic توسط جادی میرمیرانی
+- [The Bash Guide](http://guide.bash.academy) - آموزش bash
+- [how-to guides on Linux, Ubuntu and FOSS](http://binarytides.com) - آموزش های مرتبط با لینوکس و دنیای متن باز و آزاد
+- [learn linux step by step](http://linuxjourney.com) - آموزش قدم به قدم لینوکس
+- [Interactive Vim Tutorial](http://openvim.com) - آموزش جذاب و interactive تکست ادیتور محبوب لینوکسی ها vim
+- [good linux book for persian speakers](http://linuxbook.ir) - کتاب لینوکس و زندگی کاری از جادی میرمیرانی
+- [study guide for LPIC1 linux degree in plain english by jadi](http://jadi.gitbooks.io/lpic1/content) - راهنمای مدرک LPIC لینوکس توسط جادی به زبان انگلیسی
+- [Just for fun by linus torvalds translated by jadi :)](http://linuxstory.ir) - کتاب فقط برای تفریح نوشته لینوس توروالدز خالق هسته لینوکس ترجمه جادی میرمیرانی
+- [book about the linux kernel and its insides](http://0xax.gitbooks.io/linux-insides/content) - کتابی درمورد اینکه اجزای داخلی لینوکس چگونه کار میکنند
+- [usefull linux commands](http://commandlinefu.com) - لیستی از دستورات مفید و کاربردی در لینوکس رو میتوانید در این سایت ببینید
+- [explain shell commands](http://explainshell.com) - اگر حال و حوصله خواندن man page  را ندارید این سایت برای شما ساخته شده :) توضیح دستورات رو ببینید
+- [common bash pitfalls](http://mywiki.wooledge.org/BashPitfalls) - اشتباهات رایجی که در bash لینوکس هنگام کد زدن ممکن است مرتکب شویم
+- [Linux LPIC videos by jadi](http://daneshabad.com/Program.aspx?id=68) - یادگیری لینوکس با آموزش های جادی به زبان فارسی
+- [building your own custom Linux system, entirely from source code](http://linuxfromscratch.org) - آموزش مرحله به مرحله ساخت و تغییر یک سیستم لینوکسی از طریق کامپایل سورس کد لینوکس
+- [awesome projects and resources for linux](http://github.com/aleksandar-todorovic/awesome-linux) - معرفی پروژه ها و منابع آموزشی برای سیستم عامل لینوکس
+- [linux cheat sheet :))](http://tuxarena.com/intro/cheatsheet.html) - تقلب نامه ای شامل دستورات کابردی مختلف برای لینوکس :))
+- [learn VIM editor while playing a game :)](http://vim-adventures.com) - یادگیری ادیتور معروف vim با انجام دادن بازی و gamification
+- [a guide to learn the bash](http://github.com/Idnan/bash-guide) - آموزشی برای یادگیری مقدمات bash

@@ -21,4 +21,6 @@
 - [Free Auto DevOps and Group Issue Boards in Gitlab.](http://gitlab.com) - چند وقتیه که gitlab هم یه سیستم مدیریت خوب و جامع و auto devops ساخته که رایگان هم هست :)
 - [Awesome Hacking Resources](http://github.com/vitalysim/Awesome-Hacking-Resources) - منابع و سایت های یادگیری و تقویت مهارت های امنیتی و هک و ctf و ...
 - [Find vulnerability and earn money.](http://hackerone.com) - از شرکتهای مختلف دنیا آسیب پذیری امنیتی پیدا کنید و جایزه بگیرید :)
-
+- [security research laboratory](http://vulnerability-lab.com) - سایتی که محققان امنیتی در آن باگ های نرم افزارهای مختلف را گزارش می کنند
+- [free-available articles and documents in web application security](http://owasp.org) - سایتی پر از مقالات و منابع امنیتی برای طراحی وب اپلیکیشن ها و ...
+- [Crowdsourced Application Security Testing](http://bugcrowd.com) - سایتی برای گزارش باگ های سایت های مختلف و دریافت جایزه — bug bounty

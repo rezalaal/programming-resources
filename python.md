@@ -58,3 +58,4 @@
 - [A curated list of awesome Django apps, projects and resources.](http://awesome-django.com) - لیستی از بهترین اپ ها و پروژه ها و منابع برای فریمورک جنگو
 - [awesome Python notebooks.](http://github.com/donnemartin/data-science-ipython-notebooks) - نت بوک های آماده پایتون برای یادگیری ژرف و علم داده
 - [Python tips and tricks.](http://book.pythontips.com/en/latest/index.html) - نکات آموزنده در زبان برنامه نویسی پایتون
+- [inspire women to fall in love with programming](https://djangogirls.org) - سایتی برای تشویق خانم ها به برنامه نویسی و دارای آموزش های مختلف از جمله django

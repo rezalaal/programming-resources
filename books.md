@@ -33,3 +33,10 @@
 - [python best practices guidebook](http://docs.python-guide.org) - کتابی پر از best practice های پایتونی
 - [List of books to master JavaScript Development](http://github.com/javascript-society/javascript-path) - لیستی از کتاب های مفید رایگان و غیر رایگان برای حرفه ای شدن در جاوااسکریپت
 - [Free introductory book on cryptography](http://crypto101.io) - کتاب رایگانی برای یادگیری مقدمات علم رمزنگاری و استفاده از آن در امنیت سیستم های کامپیوتری
+- [Free Books of Green Tea Press, publisher of Think Python , ...](http://greenteapress.com) - کتابهای رایگان و مفید برنامه نویسی که به صورت آنلاین قابل دسترسی هستند
+- [scala book to learn functional programming](http://leanpub.com/fpmortals/read) - کتابی برای برنامه نویسان اسکالا جهت یادگیری functional programming
+- [The world's largest ebook library](http://bookzz.org) - سایتی پر از کتاب های مختلف برای دانلود
+- [good book for cryptography basics](http://toc.cryptobook.us) - کتاب خوبی برای یادگیری مقدمات رمزنگاری
+- [16 awesome free ebooks for data science](http://jadi.net/2015/07/how-to-become-a-data-scientist) - ۱۶ کتاب رایگان برای هر کسی که میخواد دانشمند داده بشه
+- [Read Oreilly books online](http://chimera.labs.oreilly.com) - تعدادی از کتابهای Oreilly را بصورت رایگان و آنلاین بخوانید
+- [PHP the right way](http://novid.github.io/php-the-right-way) -  کتاب پی اچ پی از راه درستش (همراه با نسخه فارسی)

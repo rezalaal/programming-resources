@@ -19,3 +19,13 @@
 - [linux cheat sheet :))](http://tuxarena.com/intro/cheatsheet.html) - تقلب نامه ای شامل دستورات کابردی مختلف برای لینوکس :))
 - [learn VIM editor while playing a game :)](http://vim-adventures.com) - یادگیری ادیتور معروف vim با انجام دادن بازی و gamification
 - [a guide to learn the bash](http://github.com/Idnan/bash-guide) - آموزشی برای یادگیری مقدمات bash
+- [the cron schedule expression editor](http://crontab.guru) - این سایت پر از مثالهایی از نحوه ساختن فایل crontab برای زمانبندی کردن کارهاست
+- [lists of Linux and BSD distributions.](http://distrowatch.com) - لیست کاملی از توزیع های مختلف لینوکس و BSD به همراه توضیحات جامع و کامل در مورد آنها
+- [Perisan videos for learning vim](http://amirsamimi.ir/vim/) - آموزش vim
+- [well-explained Bash one-liners.](http://bashoneliners.com) - دستورات کاربردی یک خطی ترمینال لینوکس را ببینید و به اشتراک بگذارید‌.
+- [awesome VIM plugins.](http://vimawesome.com) - لیستی از بهترین پلاگین ها برای ادیتور VIM
+- [Awesome Swift Tutorials with usefull libraries](http://awesomeswift.com) - آموزش برنامه نویسی Swift به همراه کتابخانه های کاربردی
+- [Project euler questions translated to Persian](http://marhale3.github.io) - سوالات ترجمه شده سایت projecteuler.net
+- [collection of icons using only css !](http://cssicon.space) - مجموعه ای از آیکون های جالب که تنها با استفاده از CSS درست شده اند !!
+- [over 140 zsh themes for terminal](http://github.com/robbyrussell/oh-my-zsh) - با oh-my-zsh رنگ و بوی تازه ای به ترمینال خود بدهید :)
+- [Debian 8 handbook](http://debian-handbook.info/browse/fa-IR/stable) - کتاب جامع توزیع دبیان که از نصب اولیه تا تنظیمات سرویس‌ها را شامل می‌شود

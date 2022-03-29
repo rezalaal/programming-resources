@@ -28,3 +28,8 @@
 - [Download programming books ](http://it-ebooks.info) - سایتی برای دانلود کتاب های مرتبط با برنامه نویسی
 - [a book about how computers work](http://fastchip.net/howcomputerswork/p1.html) - کتابی که خیلی خلاصه و مفید در مورد اینکه کامپیوترها چگونه کار میکنند توضیح داده است.
 - [online book for data sciences via R](http://ismayc.github.io/moderndiver-book) - کتاب آنلاین رایگان برای یادگیری علوم داده با استفاده از زبان برنامه نویسی R
+- [Adequate guide to functional programming](http://drboolean.gitbooks.io/mostly-adequate-guide) - کتاب خوبی برای یادگیری functional programming
+- [free online book to learn Django framework](http://djangobook.com) - کتاب رایگان آموزش فریمورک جنگو
+- [python best practices guidebook](http://docs.python-guide.org) - کتابی پر از best practice های پایتونی
+- [List of books to master JavaScript Development](http://github.com/javascript-society/javascript-path) - لیستی از کتاب های مفید رایگان و غیر رایگان برای حرفه ای شدن در جاوااسکریپت
+- [Free introductory book on cryptography](http://crypto101.io) - کتاب رایگانی برای یادگیری مقدمات علم رمزنگاری و استفاده از آن در امنیت سیستم های کامپیوتری

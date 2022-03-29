@@ -49,3 +49,12 @@
 - [interactive python challenges with solution](http://github.com/donnemartin/interactive-coding-challenges)  - سوالات پایتونی interactive به همراه جواب
 - [Image processing tutorials with python and opencv](http://pyimagesearch.com) - یادگیری پردازش تصویر و بینایی ماشین با پایتون و opencv
 - [A collection of useful Python scripts and tutorials](https://github.com/rasbt/python_reference) - مجموعه ای از آموزش ها و اسکریپت های کاربردی برای زبان پایتون
+- [Learn Django, Python, & More](http://godjango.com) - سایتی برای یادگیری فریمورک Django 
+- [Visualize the Code for python and other languages](http://pythontutor.com) - خط به خط اتفاقاتی را که در کد می افتد مشاهده کنید
+- [Introductions to Python Testing Frameworks](http://pythontesting.net/start-here) - یادگیری فریمورک های تست در پایتون
+- [Video Django Talks and Tutorials](http://djangounderthehood.com/talks/) - ویدیوهای آموزشی فریمورک جنگو (فیلتر شکن لازم)
+- [Python resources to make something real.](http://fullstackpython.com) - منابع عملی و مفید پایتون برای ساختن چیزهای بدردبخور
+- [Setup.py for humans (python packaging)](http://github.com/kennethreitz/setup.py) - آموزش طریقه ساختن درست setup.py برای پکیجهای پایتونی
+- [A curated list of awesome Django apps, projects and resources.](http://awesome-django.com) - لیستی از بهترین اپ ها و پروژه ها و منابع برای فریمورک جنگو
+- [awesome Python notebooks.](http://github.com/donnemartin/data-science-ipython-notebooks) - نت بوک های آماده پایتون برای یادگیری ژرف و علم داده
+- [Python tips and tricks.](http://book.pythontips.com/en/latest/index.html) - نکات آموزنده در زبان برنامه نویسی پایتون

@@ -182,3 +182,82 @@
 - [Scala School by twitter](http://twitter.github.io/scala_school) -    یادگیری زبان برنامه نویسی اسکالا
 - [download free computer science articles.](http://sci-hub.io) - دانلود مقالات کامپیوتری به صورت رایگان
 - [programming tutorials and resources](http://scotch.io) - آموزشهای برنامه نویسی با طبقه بندی های متفاوت
+- [project management platform for agile developers & designers and project managers.](http://taiga.io) - سیستم مدیریت پروژه با ظاهری جذاب و دارای پلن رایگان 
+- [HTTP Status Codes cheat sheet](http://httpstatuses.com) - لیست کامل کدهای HTTP Status
+- [Control your Arduino, Raspberry PI with restFull framework.](http://arest.io) - این سایت برای رزبری و آردوینو شما سرویس restFull ارایه میدهد.
+- [A list of web-development related challenges](http://github.com/jlem/WebDevChallenge) - لیستی از سوالات و پروژه ها برای بهبود برنامه نویسی وب
+- [Learn to Code with interactive Challenges](http://edabit.com) - یادگیری برنامه نویسی با سوالات interactive برای زبان های پایتون و جاوااسکریپت و جاوا
+- [Path to a free self-taught education in Computer Science!](http://github.com/open-source-society/computer-science) - منابع یادگیری رایگان مباحث علوم کامپیوتر
+- [Learn Anything ! with interactive mind Map](http://bit.ly/learning-mind) - یک mind map برای منابع یادگیری تقریبا همه چیز !
+- [making SQL query in Stackoverflow questions](با SQL Query در بین سوالات استک جستجو کنید ) - http://data.stackexchange.com/stackoverflow/query/new
+- [List of failed startups and story behind them](http://startupgraveyard.io) - لیستی از استارتاپ های شکست خورده و علت شکست خوردن آنها
+- [Tutorials for popular languages](http://stackoverflow.com/questions/22873/language-books-tutorials-for-popular-languages) - آموزش های معروف برای زبانهای برنامه نویسی مختلف
+- [NumPy for MATLAB users](http://mathesaurus.sourceforge.net/matlab-numpy.html) - یادگیری NumPy برای کسانی که با Matlab کار کرده اند.
+- [Open Source Apps To Grow Your Business.](http://github.com/odoo/odoo) - نرم افزار متن باز odoo برای مدیریت پروژه و کلی کار دیگر 
+- [A collection of tips to help take your CSS skills pro.](http://github.com/AllThingsSmitty/css-protips) - مجموعه ای از نکات برای بهترشدن مهارت های css در طراحی وب سایت
+- [code your bot to fight with others](http://fightcodegame.com) - برنامه تانک خود را بنویسید تا بقیه را شکست دهد.
+- [Space strategy game where coding is your extra weapon.](http://empireofcode.com) - بازی شبیه به clash of clans که در آن میتوان از برنامه نویسی استفاده کرد
+- [Free Softwares and web apps which can be hosted locally.](http://github.com/Kickball/awesome-selfhosted) - سرویسهای رایگانی که میتوانید آنها را روی کامپیوتر خود اجرا کنید
+- [A wiki of Devops Tools, Tutorials and Scripts](http://github.com/Leo-G/DevopsWiki) - آموزشها و ابزارها و اسکریپت هایی برای DevOps
+- [A list of SaaS, PaaS and IaaS offerings that have free tiers.](http://github.com/ripienaar/free-for-dev) - لیستی از ارایه دهندگان PaaS و ... به همراه پلن رایگان
+- [All challenges from /r/dailyprogrammer](http://github.com/TinkerFu/r-dailyprogrammer) - مجموعه سوالات برنامه نویسی که از یکی از subreddit های معروف برداشته شده است
+- [Learn Regular Expressions with interactive exercises.](http://regexone.com) - یادگیری عبارات باقاعده با تمرینات متنوع  به صورت interactive
+- [The Computer Language Benchmarks](http://benchmarksgame.alioth.debian.org) - مقایسه سرعت و کارایی زبان های برنامه نویسی مختلف در شرایط و برنامه های مختلف
+- [Web Framework Benchmarks](http://techempower.com/benchmarks/) - مقایسه سرعت و کارایی فریمورک های مختلف وب از جنبه های مختلف
+- [Bootstrap 4 Tutorial with examples](http://quackit.com/bootstrap/bootstrap_4/tutorial) - آموزش Bootstrap همراه با مثالهای متنوع
+- [online SqLite Manager, Browser, Viewer, Editor ](http://sqliteonline.com) - ابزار آنلاین برای کار با دیتابیس sqlite
+- [Run and share your code online](http://code.runnable.com) - کدهای خود را به صورت آنلاین اجرا کنید و به اشتراک بگذارید
+- [project management tool with free plan](http://trello.com) - ابزار مدیریت پروژه آنلاین با پلن رایگان
+- [visualising data structures and algorithms through animation](http://visualgo.net) - یادگیری الگوریتم ها و داده ساختارهای معروف با استفاده از انیمیشن
+- [.NET Framework tutorials and tips in persian](http://dotnettips.info) - مطالب مفید برنامه نویسی دات نت  ، فریمورک های جاوا اسکریپت و ...
+- [5 minute daily workout in your phone](http://enki.com) - با نصب enki روی تلفن همراه خود تمرینات برنامه نویسی روزانه انجام دهید.
+- [resources for learning fundamental concepts in programming](http://mycodeschool.com) - ویدیوهای آموزشی به همراه تمرینات متنوع برای یادگیری مفاهیم پایه برنامه نویسی
+- [everything about Semantic Versioning ](http://semver.org) - همه چیز درمورد نسخه بندی معنایی نرم افزارها
+- [Perisan blog about agile development](http://blog.scrum.ir) - پنجره ای به دنیای توسعه چابک نرم افزار
+- [Read Oreilly books online](http://chimera.labs.oreilly.com) - تعدادی از کتابهای Oreilly را بصورت رایگان و آنلاین بخوانید
+- [Try Redis online](http://try.redis.io) - دیتابیس Redis را بصورت آنلاین و interactive امتحان کنید و یاد بگیرید
+- [UX Project Checklist](http://uxchecklist.uxbook.org) - یک چک لیست تجربه کاربری که هر طراحی به آن نیاز دارد. (فارسی و انگلیسی)
+- [Twelve-Factor App methodology for Web Apps.](http://12factor.net) - توضیح درمورد متدولوژی 12Factor برای وب اپلیکیشن ها
+- [iOS 10 Design Guidelines for iPhone and iPad](http://designcode.io/iosdesign-guidelines) - نکات کاربردی در طراحی اپلیکیشن برای سیستم عامل iOS 10
+- [Jadi Understanding programming videos (Persian)](http://bit.ly/2vvn6Dw) - ویدیوهای رایگان درک برنامه نویسی جادی
+- [Deep Learning for NLP Best Practices.](http://ruder.io/deep-learning-nlp-best-practice) - آموزش بهترین روشها در NLP و یادگیری عمیق
+- [Static site generator with many themes.](http://gohugo.io) - اگر میخواهید سریع و بدون دنگ و فنگ یه سایت استاتیک شیک بیارین بالا hugo یکی از بهترین گزینه هاست
+- [learn computer science with flash cards](http://github.com/jwasham/computer-science-flash-cards) - با استفاده از فلش کارت های‌ آماده و یا خودتان computer science را بهتر یاد بگیرید.
+- [Algorithms and data structures in Swift, with explanations!](http://github.com/raywenderlich/swift-algorithm-club) - یادگیری الگوریتم و داده ساختارها با زبان swift
+- [A list of popular github projects related to deep learning.](http://github.com/aymericdamien/TopDeepLearning) - لیستی از پروژه های معروف یادگیری ژرف در گیت هاب
+- [Larn things about deep learning and AI.](http://wildml.com) - سایتی برای آموزش یادگیری عمیق و مسایل مختلف هوش مصنوعی و پردازش زبان طبیعی
+- [Learn regex the easy way.](http://github.com/zeeshanu/learn-regex) - آموزش عبارات باقاعده (یا regex) به زبان ساده و  روان
+- [Transform your plain text into static websites and blogs.](http://jekyllrb.com) - اگه حال و حوصله ساخت سایت رو ندارید علاوه بر hugo این سایت هم تست کنید.
+- [A Study Path for Game Programmer](http://github.com/miloyip/game-programmer) - مسیر های مطالعاتی برای برنامه نویسی بازی های کامپیوتری
+- [check css support for different browsers.](http://caniuse.com) - سایتی برای چک کردن ساپورت موارد مختلف css توسط مرورگرها
+- [bitwise operations and tricks](http://github.com/keon/awesome-bits) - حقه ها و کلک های قابل انجام با عملگرهای بیتی (با سینتکس زبان سی)
+- [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns) - مجموعه ای از pattern های ساخته شده با CSS3
+- [Computer Science study plan to become a software engineer](http://github.com/jwasham/coding-interview-university) - مسیری برای تبدیل شدن به یک مهندس نرم افزار
+- [useful algorithms with modern JS.](http://github.com/jiayihu/pretty-algorithms) - پیاده سازی الگوریتم های پرکاربرد به همراه مثال های آنها در دنیای واقعی
+- [Being A Developer After 40](http://bit.ly/programming-after-40-yo) - برنامه‌نویس بودن بعد از چهل سالگی
+- [A collection of things Every Programmer Should Know](http://github.com/mr-mig/every-programmer-should-know) - مجموعه ای از مواردی که هر برنامه نویسی باید بداند
+- [jQuery tips every web developer should know](http://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)  - نکات کاربردی در jQuery که هر توسعه دهنده وب باید بداند.
+- [Deep Learning tutorials, projects and more](http://github.com/ChristosChristofidis/awesome-deep-learning) - آموزش های و پروژه ها وکلی چیز دیگه درباره یادگیری ژرف
+- [Icons for everything](http://thenounproject.com) - مجموعه ای از آیکن های متنوع
+- [answer to questions via trees.](http://arguman.org/channels/programming) - روش درختی را برای مطرح کردن علت برای سوالهای مختلف برنامه نویسی
+- [visualize the iOS Auto Layout errors.](http://wtfautolayout.com) - سایتی برای نمایش بهتر error های مربوط به auto layout در iOS
+- [JS presentation framework.](http://github.com/impress/impress.js) - اگر از پاورپوینت برای ساختن اسلاید خسته شدید از impress.js استفاده کنید کافیه یه کم HTML بلد باشید همین :)
+- [online free impress.js slide editor](http://strut.io/editor) - با این سایت میتونید به صورت آنلاین اسلایدهای impress.js بسازید.
+
+- [Learn how to design large-scale systems.](http://github.com/donnemartin/system-design-primer) - چگونه سیستم های بزرگ نرم افزاری را باید طراحی کرد ؟
+- [Data Structure Visualizations.](http://cs.usfca.edu/~galles/visualization/Algorithms.html) - آموزش داده ساختارها و مفاهیم الگوریتمی به صورت بصری و همراه با شکل
+- [emote logger for multiple platforms including iOS and Android.](http://bugfender.com) - سیستم ثبت ارورها و لاگ های برنامه برای راحت تر کردن دیباگ
+- [List of libraries and tools for frontend web development](http://github.com/moklick/frontend-stuff) - لیستی از ابزار و کتابخانه های کاربردی برای فرانت اند
+- [anonymous confessions from programmers :)](http://codingconfessional.com) - سایتی پر از اعتراف ها و نکات جالبی که برنامه نویسان ناشناس آنها را بازگو میکنند. شما هم میتوانید اقرار خود را بنویسید:)
+- [wrong approaches in php programming](http://phpthewrongway.com) - دیدگاه های عملگرا و مبتنی بر تجربه در برنامه نویسی زبان php
+- [PHP the right way](http://novid.github.io/php-the-right-way) -  کتاب پی اچ پی از راه درستش (همراه با نسخه فارسی)
+- [Ebooks and Videos for programming](http://coderprog.com) - کتاب ها و ویدیوهای یادگیری موضوعات مختلف برنامه نویسی بصورت رایگان
+- [scala book to learn functional programming](http://leanpub.com/fpmortals/read) - کتابی برای برنامه نویسان اسکالا جهت یادگیری functional programming
+- [Learning CSS Layout with Flexbox Froggy !](http://flexboxfroggy.com) - یادگیری CSS Layout بصورت interactive 
+- [Front-End-Checklist and best practices](http://frontendchecklist.com) - تجربیات مفید و کاربردی برای برنامه نویسی فرانت اند سایت :)
+- [170+ responsive Bootstrap design blocks for Web](http://github.com/froala/design-blocks) - بیش از 170 بلاک آماده برای ظاهر وب سایت که با بوت استرپ ساخته شده
+- [Make your own Vector field and see how it works.](http://anvaka.github.io/fieldplay) - میدان برداری خود را بسازید و بصورت realtime آن را مشاهده کنید
+- [Data Models for different projects.](http://www.databaseanswers.org/data_models) - نمودارهای طراحی شده جدول های دیتابیس برای پروژه های مختلف 
+- [marketing tactics and ideas for launch your project.](http://sideprojectchecklist.com/marketing-checklist) - چک لیستی از مواردی که بهتر است برای مارکتینگ پروژه های خود انجام دهید
+- [Improve focus by listening to nature sounds](http://noisli.com) - با ترکیب صداهای طبیعت و چیزهای دیگر تمرکز خود را هنگام کار افزایش دهید
+- [Free videos that help you master CSS FlexBox.](http://flexbox.io) - ویدیوهای رایگان برای استادشدن در css flexbox

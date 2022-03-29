@@ -9,3 +9,16 @@
 - [resources for learning about application security](http://github.com/paragonie/awesome-appsec) - منابع آموزشی برای یادگیری رعایت مسایل امنیتی در نوشتن و استفاده نرم افزارها
 - [learn and practice security concepts in the form of fun-filled games](http://overthewire.org/wargames) - یادگیری مباحث امنیتی با سوالات بازی گونه موسوم به wargame
 - [security challenges and practices](http://hackthis.co.uk) - تمرینات مختلف امنیتی در حوزه های مختلف کامپیوتری
+- [differnet penetration testing training platform](http://w3challs.com) - سایتی برای آموزش و تقویت مهارت های مختلف نفوذ به کد و امنیت
+- [A collection of awesome penetration testing resources, tools and other shiny things](http://github.com/enaqx/awesome-pentest) - منابع و ابزارهای امنیتی برای تست نفوذ 
+- [list of awesome infosec courses and training resources](http://github.com/onlurking/awesome-infosec) - لیستی از منابع آموزشی برای یادگیری مسائل امنیتی دنیای نرم افزار
+- [List of known vulnerable web applications](http://github.com/OWASP/OWASP-VWAD) - مخزنی از  انواع وب اپلیکیشن های دارای نفوذپذیری برای یادگیری امنیت وب
+- [improve web security skills through insecure web application (bWAPP)](http://itsecgames.com) - مهارت های امنیتی برنامه نویسی خود را با کار برروی برنامه ناامن bWAPP قوی تر کنید
+- [Seurity Stuffs tutorials an resources](http://fuzzysecurity.com) - منابع آموزشی و ابزار برای کارهای امنیتی
+- [Learn about different authentication methodologies on the web.](http://github.com/teesloane/Auth-Boss) - آموزش انواع روش های authentication در دنیای وب
+- [Security Guide for Developers.](http://github.com/FallibleInc/security-guide-for-developers) - چک لیست مسایل امنیتی که هر برنامه نویس باید موقع نوشتن هر برنامه ای به آن توجه کند
+- [automated project management work with Github.](http://waffle.io) - سیستم مدیریت پروژه با پلن رایگان که با Github بصورت اتوماتیک sync میشود
+- [Free Auto DevOps and Group Issue Boards in Gitlab.](http://gitlab.com) - چند وقتیه که gitlab هم یه سیستم مدیریت خوب و جامع و auto devops ساخته که رایگان هم هست :)
+- [Awesome Hacking Resources](http://github.com/vitalysim/Awesome-Hacking-Resources) - منابع و سایت های یادگیری و تقویت مهارت های امنیتی و هک و ctf و ...
+- [Find vulnerability and earn money.](http://hackerone.com) - از شرکتهای مختلف دنیا آسیب پذیری امنیتی پیدا کنید و جایزه بگیرید :)
+

@@ -18,3 +18,5 @@
 - [A Free visual guide to CSS](http://cssreference.io) - راهنمای تصویری رایگان برای یادگیری CSS و مخصوصا موارد جدید اضافه شده در CSS3
 - [Easy to use CSS animations with its class code and key-frames](https://animista.net)  - در این سایت به راحتی انیمیشن‌های CSS ای خودتون رو بسازید و از کدهای CSS ای که اتوماتیک تولید میکنه توی پروژه‌تون استفاده کنید
 - [Friendly web development tutorials for complete beginners](http://internetingishard.com) - یادگیری مفاهیم پایه HTML و CSS برای مبتدیان و تازه‌کاران علاقه‌مند به برنامه‌نویسی وب
+- [Online game that makes 2-dimensional grid layouts in CSS a piece of cake. With it you can define columns, rows, and grid template areas.](http://cssgridgarden.com) - یه بازی آنلاین که باید مسایلی رو به صورت دوبعدی با CSS حل کنید تا مفاهیم grid رو باحال تر درک کنید :)
+- [This page helps you choose the right easing function in css.](https://easings.net) - این سایت بهتون کمک میکنه که تابع‌های مختلف easing انیمیشن‌های css تون انتخاب کنید و تفاوتش رو در عمل ببینید.

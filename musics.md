@@ -10,3 +10,4 @@
 - [Good Instrumental Musics to listen while working :)](http://dig.ccmixter.org/film) - لیستی از موسیقی های بی کلام آرامش بخش
 - [Relax Melodies for improve focus and relaxation](http://bit.ly/2nXk7BE) - در این اپلیکیشن صداهای مختلف را با هم ترکیب کنید و با تمرکز بیشتری کار کنید
 - [Rain Sound to focus, relax, and sleep](http://rainymood.com) - این سایت با پخش کردن صدای آرامش بخش باران باعث ایجاد تمرکز و آرامش در شما می شود 
+- [This site creates beautiful noises to mask the noises you don’t want to hear to focus on your work.](https://mynoise.net) - این سایت نویزهای خاصی برای شما به صورت اتوماتیک و طبیعی تولید میکنه که تمرکزتون رو توی جاهای شلوغ و یا جاهایی که نمیتونین تمرکز کنین بهبود میده.

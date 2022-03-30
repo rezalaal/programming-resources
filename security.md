@@ -35,3 +35,4 @@
 - [Free class for web security](http://github.com/Hacker0x01/hacker101) - کلاس رایگانی برای یادگیری امنیت وب اپلیکیشن ها
 - [Build, host and share vulnerable web application for free](https://hack.me) - سایتی برای قوی کردن مهارت های امنیتی شامل برنامه ها و چالشهای مختلف
 - [CTF practice and problems](http://ctflearn.com) - تمرینات برای مهارت های امنیتی و مسابقات CTF
+- [Online CTF Platform for Cybersecurity competition and practice.](https://picoctf.org) -  یه پلتفرم آنلاین برای تمرین مباحث امنیتی مثل مهندسی معکوس و رمزنگاری برای مسابقات CTF

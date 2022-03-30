@@ -20,6 +20,7 @@
 
 ##  Fonts 
 - [over 50 Free Programming fonts](http://app.programmingfonts.org) - بیش از ۵۰ فونت رایگان مخصوص برنامه نویسی
+- [texetFree mono-spaced font containing ligatures for common programming multi-character combinations like >= and != and etc.](https://github.com/tonsky/FiraCode) - یه فونت باحال برای کاراکترهای ترکیبی پرکاربرد توی برنامه نویسی مثل فلش -> یا => که خواندن و زیبایی کد رو بهتر میکنه.
 
 
 
@@ -38,6 +39,7 @@
 
 ## IOT
 - [List of great resources about IoT](http://phodal.github.io/awesome-iot) - مجموعه ای از منابع مفید برای پروژه های اینترنت چیزها (IOT)
+- [12 Weeks, 24 Lessons, IoT for All!](https://github.com/microsoft/IoT-For-Beginners) - در ۱۲ هفته با آموزش‌های این کتاب اصول IoT را یاد بگیرید.
 
 
 ## Machine Learning 
@@ -83,6 +85,7 @@
 - [learn scala with tdd approach and interactive](http://scala-exercises.org) - یادگیری زبان اسکالا با آموزشها و تمرینهای interactive
 - [TDD for the Python, Django and more](http://www.obeythetestinggoat.com) - کتاب رایگان آنلاین آموزش برنامه نویسی آزمون محور (TDD) با پایتون
 - [An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture](https://github.com/joebew42/study-path) - مسیرنامه‌ای از مطالب آموزشی برای یادگیری مباحثی مثل کدتمیز و TDD و کار کردن با کدی که تست ندارد (legacy code) و روش‌های درست برای refactoring کد
+- [List of TDD code katas to sharpen skills and practice test driven development.](https://kata-log.rocks) -    کاتا مجموعه‌ای از سوالات ساده است برای تمرین مهارت تست‌نویسی. با این کار در TDD به مرور زمان قوی‌تر می‌شوید و دید بهتری نسبت به تست نوشتن پیدا می‌کنید.
 
 
 ## Learning and more...
@@ -237,3 +240,4 @@
 - [Beginner's guide to Machine Learning](http://github.com/humphd/have-fun-with-machine-learning) - آموزش مقدماتی یادگیری ماشین و شبکه عصبی با پایتون
 - [Record terminal and create animated images](http://github.com/faressoft/terminalizer) - کدهای خود در ترمینال را با این برنامه ضبط کنید و gif بسازید
 - [Platform as a service for build, run and ship applications](http://heroku.com) - یک Paas دارای پلن رایگان برای ساختن و اجرای برنامه های تحت وب
+- [Get a feed of the hottest developer news personalized to you. Read more quality articles. Stay up to date. Save time.](https://daily.dev) - با استفاده از این افزونه با داغ‌ترین خبرهای برنامه‌نویسی توی تب جدید مرورگرتون همیشه خودتون رو آپدیت نگه‌دارید.

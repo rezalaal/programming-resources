@@ -27,3 +27,4 @@
 - [Easy-to-read, quick reference for JS best practices](http://jstherightway.org) - برترین روشهای کدزنی و منابع آموزشی در جاوااسکریپت 
 - [Overview of ECMAScript 6 features](http://git.io/es6features) - خلاصه ای از کارهایی که میتوان با ES6 انجام داد
 - [33 concepts every JavaScript developer should know](http://github.com/leonardomso/33-js-concepts) - ۳۳ موضوع که هر برنامه نویس جاوااسکریپت باید بداند
+- [286 Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev) - ۲۸۶ تا کار باحال و پرکاربرد که میشه با جاوااسکریپت توی یک خط انجام داد.

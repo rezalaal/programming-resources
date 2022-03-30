@@ -14,3 +14,4 @@
 - [Tutotial on GitLab development life cycle](http://bit.ly/2IDvQ4E) - آموزش جامعی برای استفاده از قسمت های مختلف gitlab مختص software life cycle
 - [Reference when you get stuck in using Git](http://ohshitgit.com) - یه راهنمای خوب برای مواقعی که موقع استفاده از git دچار مشکل میشید و نمیدونید باید چیکار کنید
 - [Find the right git commands you need without digging through the web.](http://gitexplorer.com) - بدون دردسر کامندهای پراستفاده گیت رو تو این سایت پیدا کنید.
+- [The Conventional Commits specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history.](http://conventionalcommits.org/en/v1.0.0) - یه سری قراردادهای کاربردی و سبک برای متن commit که بشه هم خواناتر و هم با قابلیت بیشتری برای automated tools ها به همراه پیروی از semantic versioning این متن‌ها رو ساخت.

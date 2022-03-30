@@ -14,3 +14,4 @@
 - [CrossWord puzzles to learn regex](http://regexcrossword.com) - سایتی پر از پازلهای جدولی برای یادگیری regex
 - [Test your regex skills via exams with different levels.](http://play.inginf.units.it) - مهارت‌های نوشتن عبارات باقاعده خود را با امتحان‌های این سایت بهتر کنید 
 - [Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.](https://www.debuggex.com) - تو این سایت به صورت لایو و با دیاگرام visual عبارات باقاعده یا regex خود را چک کنید که از زبان‌های python و javascript پشتیبانی میکنه.
+- [A command-line tool and library for generating regular expressions from user-provided test cases.](https://github.com/pemistahl/grex) - یه ابزار ترمینالی باحال که بهش ورودی‌های مختلف میدین و براساس اون میگه regex ای که همه این ورودی ها توش صدق میکنه چیه و کار رو یخورده توی درست کردن عبارات باقاعده راحت‌تر میکنه

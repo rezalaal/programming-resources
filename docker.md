@@ -13,3 +13,4 @@
 - [Practical tutorial on how run microservices on kubernetes](http://bit.ly/kuber-3-hour) - آموزش مرحله به مرحله از اجرای میکروسوریس ها بر روی کوبرنتیس
 - [A collection of delicious docker recipes](http://github.com/vimagick/dockerfiles) - مجموعه ای از کانتینرهای آماده و بدردبخور برای داکر
 - [Comprehensive online Docker training with short videos and assignments](http://learndocker.online) - سایتی که بصورت رایگان مفاهیم مرتبط با داکر رو با ویدیوهای کوتاه و آموزنده آموزش میده و تمرینات مختلفی هم برای یادگیری داکر داره
+- [Awesome Docker Compose samples](https://github.com/docker/awesome-compose) - مجموعه‌ای از داکرکامپوزهای آماده برای اپلیکیشن‌های پرکاربرد

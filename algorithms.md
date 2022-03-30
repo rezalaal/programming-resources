@@ -16,3 +16,4 @@
 - [Visualization of the most famous Sorting Algorithms.](http://sorting.at) - نوع کارکرد انواع مرتب سازی های معروف را بصورت interactive ببینید و با هم مقایسه کنید
 - [Algorithms and data structures in JavaScript with explanations](http://github.com/trekhleb/javascript-algorithms) - یادگیری الگوریتم با زبان جاوااسکریپت
 - [create and learn algorithms with animation.](http://algomation.com) - یادگیری الگوریتم های مختلف بصورت انیمیشن و جذاب. برای الگوریتم های خودتان هم انیمیشن بسازید.
+- [A guide to learning algorithms through LeetCode](http://github.com/labuladong/fucking-algorithm/tree/english) - راهنمایی برای یادگیری الگوریتم از طریق توضیح روش حل مسائل سایت leetcode

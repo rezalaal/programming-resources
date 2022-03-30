@@ -36,3 +36,4 @@
 - [redirert every terminal program through predefined proxy](http://github.com/rofl0r/proxychains-ng) - با این ابزار هر برنامه ای را در ترمینال از طریق پروکسی خود به اینترنت متصل کنید
 - [Master the command line, in one page](http://github.com/jlevy/the-art-of-command-line) - با خواندن این یک ضفحه در استفاده از ترمینال لینوکس استاد شوید !
 - [Series of programming exercises for the Linux kernel](http://github.com/agelastic/eudyptula) - یه سری تمرین برای تقویت برنامه نویسی در کرنل لینوکس
+- [A collection of pure bash alternatives to external processes](http://github.com/dylanaraps/pure-bash-bible) - مجموعه ای از ترفندهای bash که کمتر شناخته شده اند و کار راه انداز هستند

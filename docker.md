@@ -9,3 +9,7 @@
 - [good docker articles in persian language](http://elastico.io) - آموزش های روان و خوبی برای مفاهیم مربوط به داکر 
 - [Run applications anywhere On windows.](http://turbo.net) - اگر با Docker کار کردید Turbo تقریبا همون کارها رو مخصوص ویندوز انجام میده.
 - [A curated list of Docker resources and projects](http://github.com/veggiemonk/awesome-docker) - لیستی از پروژه ها و منابع مفید مرتبط با داکر
+- [A simple, interactive and fun playground to learn Docker](http://labs.play-with-docker.com) - محیطی آنلاین برای یادگیری ابزار docker
+- [Practical tutorial on how run microservices on kubernetes](http://bit.ly/kuber-3-hour) - آموزش مرحله به مرحله از اجرای میکروسوریس ها بر روی کوبرنتیس
+- [A collection of delicious docker recipes](http://github.com/vimagick/dockerfiles) - مجموعه ای از کانتینرهای آماده و بدردبخور برای داکر
+- [Comprehensive online Docker training with short videos and assignments](http://learndocker.online) - سایتی که بصورت رایگان مفاهیم مرتبط با داکر رو با ویدیوهای کوتاه و آموزنده آموزش میده و تمرینات مختلفی هم برای یادگیری داکر داره

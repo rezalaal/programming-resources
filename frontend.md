@@ -18,3 +18,5 @@
 - [Chrome DevTools tips and tricks](http://umaar.com/dev-tips) - نکات و ترفندهای استفاده از developer tools در مرورگر کروم
 - [OpenSource Dashboard built on Bootstrap 4](http://github.com/tabler/tabler) - پنل ادمین رایگان و متن باز ساخته شده با bootstrap
 - [online IDE for Front-end applications](http://stackblitz.com) - ادیتور آنلاین مخصوص کد زدن برای تکنولوژی های فرانت اند مثل angular و react و ionic
+- [The Design Checklist for Creative Web Designers and Patient Front-End Developers ](http://frontenddesignchecklist.io) - چک لیستی برای طراحی بهتر فرانت اند
+- [Find the best Fun website designs. Web design and inspirations hand picked by our team of creative web design diggers.](http://webdesign-inspiration.com) - توی این سایت بهترین سایت‌ها از نظر دیزاین قرارداده میشه و میتونین برای سایت خودتون ازش ایده بگیرید.

@@ -60,3 +60,4 @@
 - [The best free JavaScript resources](http://jsbooks.revolunet.com) - کتاب ها و منابع رایگان برای یادگیری جاوااسکریپت در سطوح مختلف
 - [Learn intermediate things in python](http://github.com/yasoob/intermediatePython) - کتابی در سطح متوسط برای یادگیری نکات زبان پایتون
 - [Top mentioned books on stackoverflow.com](http://dev-books.com)  - لیستی از کتابهای برنامه نویسی که در سایت stackoverflow در سوال و جوابها معرفی شده
+- [Persian Free book for learn linux for fun](https://raw.githubusercontent.com/saharshaker/DanceWithLinux/master/Dance%20with%20Linux%2011.22.pdf) - اگه در مورد لینوکس نمیدونید یا میخواهید با روشی باحال به کسی یاد بدیدش این کتاب رایگان رو که خانم سحر شاکر نوشته میتونه خوب باشه :)

@@ -12,3 +12,5 @@
 - [Tutorials and articles and more about Android security](http://droidsec.org/wiki/) - مقالات و آموزشهای امنیتی برای سیستم عامل اندروید
 - [Samples and architectural patterns for Android apps.](http://github.com/googlesamples/android-architecture) - معماری های مختلف نرم افزاری برای برنامه های اندرویدی
 - [Network traffic sniffer app](http://play.google.com/store/apps/details?id=app.greyshirts.sslcapture&hl=en) - برنامه اندروید برای sniff کردن به همراه رمزگشایی SSL
+- [Android Open Source Projects](http://github.com/Trinea/android-open-project/tree/master/English%20Version) - یادگیری اندروید به همراه پروژه های مختلف و متن باز
+- [Do's and Don'ts for Android development, by Futurice developers](http://github.com/futurice/android-best-practices/) - باید و نبایدهایی برای برنامه‌نویسی بهتر در اندروید

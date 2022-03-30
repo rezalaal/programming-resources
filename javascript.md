@@ -24,3 +24,6 @@
 - [You Don't Know JS (book series)](http://github.com/getify/You-Dont-Know-JS) - مجموعه کتابهای رایگان آنلاین برای یادگیری بهتر جاوااسکریپت :)
 - [Javascript in 14 minutes !](http://jgthms.com/javascript-in-14-minutes) - یادگیری کلیت استفاده از زبان جاوااسکریپت در برنامه نویسی client-side وب
 - [JavaScript - Exercises, Practice, Solution](http://w3resource.com/javascript-exercises) - مسایل به همراه راه حل برای تقویت یادگیری زبان جاوااسکریپت
+- [Easy-to-read, quick reference for JS best practices](http://jstherightway.org) - برترین روشهای کدزنی و منابع آموزشی در جاوااسکریپت 
+- [Overview of ECMAScript 6 features](http://git.io/es6features) - خلاصه ای از کارهایی که میتوان با ES6 انجام داد
+- [33 concepts every JavaScript developer should know](http://github.com/leonardomso/33-js-concepts) - ۳۳ موضوع که هر برنامه نویس جاوااسکریپت باید بداند

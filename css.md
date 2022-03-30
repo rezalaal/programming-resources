@@ -15,3 +15,6 @@
 - [Learn all about CSS grid](http://cssgrid.io) - فیلم های رایگان آنلاین آموزشی برای CSS grid
 - [CSS best practices and tips](http://codeguide.co) - نکات مهم و کاربردی برای بهتر نوشتن کدهای CSS در وب
 - [guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es) - راهکارهایی برای نوشتن بهتر و تمیزتر فایل های css
+- [A Free visual guide to CSS](http://cssreference.io) - راهنمای تصویری رایگان برای یادگیری CSS و مخصوصا موارد جدید اضافه شده در CSS3
+- [Easy to use CSS animations with its class code and key-frames](https://animista.net)  - در این سایت به راحتی انیمیشن‌های CSS ای خودتون رو بسازید و از کدهای CSS ای که اتوماتیک تولید میکنه توی پروژه‌تون استفاده کنید
+- [Friendly web development tutorials for complete beginners](http://internetingishard.com) - یادگیری مفاهیم پایه HTML و CSS برای مبتدیان و تازه‌کاران علاقه‌مند به برنامه‌نویسی وب

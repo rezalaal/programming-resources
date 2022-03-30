@@ -19,3 +19,5 @@
 - [Programming interview questions every week](http://interviewcake.com) - سوالات برنامه نویسی برای تقویت در مصاحبه های برنامه نویسی
 - [System design interview for IT companies](http://github.com/checkcheckzz/system-design-interview) - نکات و راهکارهایی برای مصاحبه های کاری مرتبط با معماری نرم افزار
 - [Level up your coding skills and quickly land a job](http://leetcode.com) - تمرینات برنامه نویسی و سوالات استخدامی شرکت های معروف دنیا
+- [A list of back-end related questions interview](http://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - لیستی از سوالات مصاحبه برنامه نویسی برای backend
+- [Get better at algorithmic and systems design problems, find a job, or just see if you’ve still got it.](http://interviewing.io/recordings) -     در این سایت میتونید ویدیوهای مربوط به مصاحبه‌های شرکت‌های بزرگ دنیای IT رو مشاهده کنید و بصورت ناشناس با مصاحبه‌گرهایی که از همین شرکت‌ها هستند مصاحبه آزمایشی بدین (که فعلا این امکان توی نسخه بتا هست و فعال نیست)

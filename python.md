@@ -69,3 +69,4 @@
 - [Django girls tutorial](http://tutorial.djangogirls.org/en) - کتاب روان و خوبی برای آموزش فریمورک جنگو
 - [Python programs to practice or demonstrate skills](http://github.com/norvig/pytudes) - مسایل کوچک برای تقویت مهارت برنامه نویسی با زبان پایتون به همراه راه حل
 - [100+ Python challenging programming exercises](http://github.com/zhiwehu/Python-programming-exercises) - تمرین های مختلف پایتون با سطح سختی های متفاوت برای یادگیری برنامه نویسی
+- [Python standard library by example](http://pymotw.com) - آموزش اجزای کتابخانه استاندارد پایتون به همراه مثال

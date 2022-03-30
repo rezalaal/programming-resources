@@ -51,6 +51,9 @@
 
 ## Microservices 
 - [Microservices Resource Guide](http://martinfowler.com/microservices) - مقاله ای از martin fowler درباره microservice ها و اینکه چه موقعی باید از آن استفاده کرد
+- [Why microservices ?](http://eventuate.io/whyeventdriven.html) - چرا از مایکروسرویس ها استفاده کنیم ؟
+- [What are microservices? When use them? Article and tutorial about Microservice architecure by Chris Richardson](https://microservices.io) - میکروسرویس‌ها چه چیزهایی هستند؟ چرا و چه زمانی باید از آنها استفاده کرد ؟ توی این سایت مجموعه‌ای از مقالات و آموزش‌ها در مورد میکروسرویس وجود داره که به آموزش این مبحث میپردازه
+
 
 ## Project Management
 - [project management platform for agile developers & designers and project managers.](http://taiga.io) - سیستم مدیریت پروژه با ظاهری جذاب و دارای پلن رایگان 
@@ -62,10 +65,6 @@
 - [improve your type speed while coding](https://typing.io) - با این سایت میتونین سرعت تایپ خودتون رو هنگام برنامه نویسی افزایش بدید
 - [Learn touch Typing for Free](http://typing.com/student/start) - بصورت رایگان و آنلاین به همراه مرحله های مختلف مهارت تایپ خود را بهبود ببخشید
 
-
-## RESTful
-- [How to do stuff RESTful. learn details of RESTful API](http://restcookbook.com) - یادگیری برنامه نویسی RESTful API و جزییات آن
-- [learn RESTful programming](http://restapitutorial.com) - یادگیری برنامه نویسی RESTful
 
 ## Raspberry PI
 - [Control your Arduino, Raspberry PI with restFull framework.](http://arest.io) - این سایت برای رزبری و آردوینو شما سرویس restFull ارایه میدهد.
@@ -82,6 +81,9 @@
 ## TDD 
 - [Programming Katas to improve TDD skills.](http://codingdojo.org/kata) - مسایل کوچک برنامه نویسی برای دست گرمی و تمرین برنامه نویسی تست محور (TDD)
 - [learn scala with tdd approach and interactive](http://scala-exercises.org) - یادگیری زبان اسکالا با آموزشها و تمرینهای interactive
+- [TDD for the Python, Django and more](http://www.obeythetestinggoat.com) - کتاب رایگان آنلاین آموزش برنامه نویسی آزمون محور (TDD) با پایتون
+- [An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture](https://github.com/joebew42/study-path) - مسیرنامه‌ای از مطالب آموزشی برای یادگیری مباحثی مثل کدتمیز و TDD و کار کردن با کدی که تست ندارد (legacy code) و روش‌های درست برای refactoring کد
+
 
 ## Learning and more...
 - [notes for programmers](http://www.coderz.ir) - گاه نوشتی برای برنامه نویسان
@@ -229,3 +231,9 @@
 - [Artificial intelligence programming challenge](http://halite.io) - هوش مصنوعی بات خود را با زبان دلخواه بسازید و در این بازی دوبعدی حریفان را شکست دهید
 - [A list of awesome online development environments](http://github.com/styfle/awesome-online-ide) - لیستی از بهترین محیط های آنلاین برای کد زدن
 - [Learn how to design large-scale systems](http://github.com/donnemartin/system-design-primer) - آموزش و نکاتی برای چگونه طراحی کردن سیستم های scalable
+- [Free knowledge sharing platform](https://tech.io) - یک سایت که آموزش های مختلف توسط افراد مختلف قرار داده میشود و شما هم میتوانید آموزش قرار دهید
+- [Collection of Linux Sysadmin/DevOps interview questions](http://github.com/chassing/linux-sysadmin-interview-questions) - مجموعه ای از سوالات مصاحبه مخصوص SysAdmin ها
+- [Learn a new technology every week](http://github.com/shekhargulati/52-technologies-in-2016) - 52 آموزش متنوع برای 52 هفته سال
+- [Beginner's guide to Machine Learning](http://github.com/humphd/have-fun-with-machine-learning) - آموزش مقدماتی یادگیری ماشین و شبکه عصبی با پایتون
+- [Record terminal and create animated images](http://github.com/faressoft/terminalizer) - کدهای خود در ترمینال را با این برنامه ضبط کنید و gif بسازید
+- [Platform as a service for build, run and ship applications](http://heroku.com) - یک Paas دارای پلن رایگان برای ساختن و اجرای برنامه های تحت وب

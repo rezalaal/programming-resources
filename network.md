@@ -10,3 +10,5 @@
 - [A fun and colorful explanation of how DNS works](https://howdns.works) - آموزش بامزه و کارتونی از نحوه کار DNS
 - [Open-source systems monitoring and alerting toolkit](http://prometheus.io) - سیستم متن باز برای مانیتورینگ سرور 
 - [detect your real IP inside terminal](http://ifconfig.co) - آی پی واقعی تون که توی ترمینال ازش استفاده میکنید از این سایت پیدا کنید
+- [A collection of Nginx tutorials and resources](http://github.com/fcambus/nginx-resources) - مجموعه ای از آموزش های و مطالب مرتبط با وب سرور Nginx
+- [Free Proxy server for Iranian cruel sanctions.](https://github.com/freedomofdevelopers/fod) - این جمع باحال با درست کردن یک پروکسی سرور رایگان یه راه به را‌های رد شدن از تحریم‌های ظالمانه اضافه کردن. اگر هم دوست داشتید donate کنید

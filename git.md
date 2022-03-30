@@ -13,3 +13,4 @@
 - [Learn Git for free](http://git-tower.com/learn) - یادگیری git بصورت رایگان
 - [Tutotial on GitLab development life cycle](http://bit.ly/2IDvQ4E) - آموزش جامعی برای استفاده از قسمت های مختلف gitlab مختص software life cycle
 - [Reference when you get stuck in using Git](http://ohshitgit.com) - یه راهنمای خوب برای مواقعی که موقع استفاده از git دچار مشکل میشید و نمیدونید باید چیکار کنید
+- [Find the right git commands you need without digging through the web.](http://gitexplorer.com) - بدون دردسر کامندهای پراستفاده گیت رو تو این سایت پیدا کنید.

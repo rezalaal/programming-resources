@@ -23,3 +23,4 @@
 - [Programming tutorials and practices and challenges](http://hackerearth.com) - آموزش ها و مسابقات و تمرینات برنامه نویسی بصورت آنلاین
 - [CTF security challenges](https://ctfs.me) - مسابقات آنلاین CTF برای تقویت مهارت های امنیتی
 - [Cool Programming challenges mostly related to mathematics](http://projecteuler.net) - سایتی پر از سوالات مختلف و جذاب برنامه نویسی در سطوح مختلف با پیش زمینه ریاضیات
+- [Codewars is where developers achieve code mastery through challenges](http://codewars.com) - سایتی برای تقویت مهارت‌های برنامه‌نویسی که زبان‌های مختلفی رو پشتیبانی میکنه و کلی سوال برای حل کردن داره

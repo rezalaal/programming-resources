@@ -1,7 +1,10 @@
 # Programming resources
 
 ## Contents 
+- [Algorithms](./algorithms.md)
 - [Android](./android.md)
+- [API](./api.md)
+- [Blogs](./blogs.md)
 - [Books](./books.md)
 - [C#](./c%23.md)
 - [Challenges](./challenges.md)
@@ -9,9 +12,13 @@
 - [Clean Code](./clean-code.md)
 - [Computer Science](./computer-science.md)
 - [CSS](./css.md)
+- [Data Science](./data-science.md)
 - [Deep Learning](./deep-learning.md)
 - [Design Petterns](./design-patterns.md)
 - [Docker](./docker.md)
+- [Frontend](./frontend.md)
+- [Fun](./fun.md)
+- [Games](./games.md)
 - [Git](./git.md)
 - [Go Lang](./go-lang.md)
 - [iOS](./ios.md)
@@ -19,13 +26,16 @@
 - [Javascript](./javascript.md)
 - [Job](./job.md)
 - [Linux](./linux.md)
+- [Musics](./musics.md)
 - [Network](./network.md)
 - [Nodejs](./nodejs.md)
 - [Open Sourse](./open-source.md)
 - [PHP](./php.md)
 - [Python](./python.md)
+- [RegEx](./regex.md)
 - [Security](./security.md) 
 - [Sites](./sites.md)
+- [SQL](./sql.md)
 - [Tutorials](./tutorials.md)
 
 

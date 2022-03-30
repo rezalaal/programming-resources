@@ -16,3 +16,10 @@
 - [A list of web-development related challenges](http://github.com/jlem/WebDevChallenge) - لیستی از سوالات و پروژه ها برای بهبود برنامه نویسی وب
 - [Learn to Code with interactive Challenges](http://edabit.com) - یادگیری برنامه نویسی با سوالات interactive برای زبان های پایتون و جاوااسکریپت و جاوا
 - [All challenges from /r/dailyprogrammer](http://github.com/TinkerFu/r-dailyprogrammer) - مجموعه سوالات برنامه نویسی که از یکی از subreddit های معروف برداشته شده است
+- [USACO competitive computer challenges](http://train.usaco.org/usacogate) - منبع سوالات برنامه نویسی به سبک ACM
+- [Programming Competition with online judge](http://codechef.com/problems/easy) - سایتی پر از سوالات مسابقات برنامه نویسی به همراه رقابت آنلاین با دیگران
+- [500+ problems that may be solved through programming](http://rosettacode.org/wiki/Category:Programming_Tasks) - کلی مساله برنامه نویسی که میتونید با هر زبان برنامه نویسی حلش کنید
+- [Online judge with huge amount of ACM questions](http://acm.timus.ru) - یک judge آنلاین که شامل هزاران سوال مسابقات برنامه نویسی ACM است
+- [Programming tutorials and practices and challenges](http://hackerearth.com) - آموزش ها و مسابقات و تمرینات برنامه نویسی بصورت آنلاین
+- [CTF security challenges](https://ctfs.me) - مسابقات آنلاین CTF برای تقویت مهارت های امنیتی
+- [Cool Programming challenges mostly related to mathematics](http://projecteuler.net) - سایتی پر از سوالات مختلف و جذاب برنامه نویسی در سطوح مختلف با پیش زمینه ریاضیات

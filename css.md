@@ -12,3 +12,6 @@
 - [free themes for bootstrap](http://bootswatch.com) - تم های رایگان و متنوع بوت استرپ برای فرانت اند کارهای عزیز :)) و بقیه علاقه مندان
 - [Free Bootstrap 3 Admin template](http://github.com/puikinsh/gentelella) - قالب ادمین bootstrap همه منظوره که بصورت متن باز و رایگان قابل استفاده است
 - [Bootstrap 4 Tutorial with examples](http://quackit.com/bootstrap/bootstrap_4/tutorial) - آموزش Bootstrap همراه با مثالهای متنوع
+- [Learn all about CSS grid](http://cssgrid.io) - فیلم های رایگان آنلاین آموزشی برای CSS grid
+- [CSS best practices and tips](http://codeguide.co) - نکات مهم و کاربردی برای بهتر نوشتن کدهای CSS در وب
+- [guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es) - راهکارهایی برای نوشتن بهتر و تمیزتر فایل های css

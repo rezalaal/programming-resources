@@ -60,3 +60,12 @@
 - [Python tips and tricks.](http://book.pythontips.com/en/latest/index.html) - نکات آموزنده در زبان برنامه نویسی پایتون
 - [inspire women to fall in love with programming](https://djangogirls.org) - سایتی برای تشویق خانم ها به برنامه نویسی و دارای آموزش های مختلف از جمله django
 - [Learn Python through doing practical projects.](http://newcoder.io) - یادگیری بهتر پایتون با چند پروژه عملی و جالب
+- [Useful checklist for building good Python library APIs.](http://python.apichecklist.com) - چک لیست مفیدی از کارهایی که بهتر است برای ساخت API  کتابخانه های پایتونی رعایت کرد
+- [Checklist to Build Great Reusable Django Apps](http://djangoappschecklist.com) - چک لیستی برای بهتر ساختن برنامه های تحت وب با فریمورک جنگو
+- [production-ready Django projects quickly](http://github.com/pydanny/cookiecutter-django) - پروژه آماده جنگو با کلی امکانات آماده برای اجرا روی سرور
+- [Awesome Django apps, projects and resources](http://github.com/rosarior/awesome-django) - لیستی از منابع و پروژه ها و app های بدردبخور جنگو
+- [Draw hunder types of graph with python code](http://python-graph-gallery.com) - چندصد نوع نمودار مختلف به همراه سورس کد پایتون 
+- [Programming riddles](http://pythonchallenge.com) - مسایل معمایی که میتوانید با هر زبانی (ترجیحا پایتون) آنها را حل کنید و مرحله به مرحله جلو برید
+- [Django girls tutorial](http://tutorial.djangogirls.org/en) - کتاب روان و خوبی برای آموزش فریمورک جنگو
+- [Python programs to practice or demonstrate skills](http://github.com/norvig/pytudes) - مسایل کوچک برای تقویت مهارت برنامه نویسی با زبان پایتون به همراه راه حل
+- [100+ Python challenging programming exercises](http://github.com/zhiwehu/Python-programming-exercises) - تمرین های مختلف پایتون با سطح سختی های متفاوت برای یادگیری برنامه نویسی

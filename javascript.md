@@ -17,3 +17,10 @@
 - [Admin dashboard template based onAngular 4+, Bootstrap 4.](http://akveo.com/ngx-admin) - داشبورد ادمین اوپن سورس ساخته شده با انگولار و بوت استرپ 
 - [Learn Full stack development.](http://coursetro.com) - این سایت ویدیوها و آموزش های full stack خوبی بخصوص برای angular دارد.
 - [angular.js free template blur admin](http://github.com/akveo/blur-admin) - داشبورد اوپن سورس ساخته شده با angularjs 
+را برای مطرح کردن علت برای سوالهای مختلف برنامه نویسی
+- [JS presentation framework.](http://github.com/impress/impress.js) - اگر از پاورپوینت برای ساختن اسلاید خسته شدید از impress.js استفاده کنید کافیه یه کم HTML بلد باشید همین :)
+- [online free impress.js slide editor](http://strut.io/editor) - با این سایت میتونید به صورت آنلاین اسلایدهای impress.js بسازید.
+- [jQuery tips every web developer should know](http://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)  - نکات کاربردی در jQuery که هر توسعه دهنده وب باید بداند.
+- [You Don't Know JS (book series)](http://github.com/getify/You-Dont-Know-JS) - مجموعه کتابهای رایگان آنلاین برای یادگیری بهتر جاوااسکریپت :)
+- [Javascript in 14 minutes !](http://jgthms.com/javascript-in-14-minutes) - یادگیری کلیت استفاده از زبان جاوااسکریپت در برنامه نویسی client-side وب
+- [JavaScript - Exercises, Practice, Solution](http://w3resource.com/javascript-exercises) - مسایل به همراه راه حل برای تقویت یادگیری زبان جاوااسکریپت

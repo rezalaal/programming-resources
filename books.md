@@ -41,3 +41,22 @@
 - [Read Oreilly books online](http://chimera.labs.oreilly.com) - تعدادی از کتابهای Oreilly را بصورت رایگان و آنلاین بخوانید
 - [PHP the right way](http://novid.github.io/php-the-right-way) -  کتاب پی اچ پی از راه درستش (همراه با نسخه فارسی)
 - [Reddit's favorite books to learn about programming](http://redditfavorites.com/books/programming) - محبوب ترین کتاب ها از نگاه reddit بازان برنامه نویس :)
+- [good online book for learning erlang](http://learnyousomeerlang.com/content) - کتاب آنلاین خوبی برای یادگیری زبان برنامه نویسی ارلنگ
+- [97 things every programmer should know.](http://programmer.97things.oreilly.com) - کتاب خوب و مختصری از Oreily در مورد ۹۷ چیزی که هر برنامه نویس باید آن را بداند
+- [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook) - کتاب رایگان نکات کاربردی زبان پایتون که از پروژه stackoverflow document درست شده
+- [Extracted books from stackoverflow documents.](http://goalkicker.com) - این سایت فقط کتاب پایتون نداره بلکه برای کلی زبان دیگه هم کتاب درست کرده :)
+- [open book that explains concepts in plain language.](http://fullstackpython.com/table-of-contents.html) - کتاب رایگان آنلاین خوبی برای یادگیری مفاهیم و موضوعات مرتبط با پایتون
+- [Django 2.0 Tutorial for Beginners.](http://djangoforbeginners.com) - کتاب رایگان آنلاین برای یادگیری فریمورک django2.0
+- [good books to learn C++](http://archive.org/details/TICPP2ndEdVolOne) - good books to learn C++
+- [Front-End Developer Handbook 2017](http://gitbook.com/book/frontendmasters/front-end-handbook-2017) - کتاب آموزشی رایگان برای فرانت اند کاران
+- [Learn code the hardway books](http://learncodethehardway.org) - کتاب های یادگیری برنامه نویسی که بعضی از آنها رایگان است
+- [Free online book for deep learning](http://deeplearningbook.org) - کتاب آنلاین رایگانی برای یادگیری عمیق ماشین (deep learning)
+- [Intro to programming in go](http://golang-book.com) - کتاب آموزش مقدماتی یادگیری زبان برنامه نویسی go
+- [Free Python books](http://pythonbooks.revolunet.com) - کتاب های رایگان برای یادگیری پایتون در سطوح مختلف
+- [Free online books include programming and more](http://legacy.gitbook.com/explore) - سایت گیتبوک دارای کتابهای رایگان در حوزه های مختلف کامپیوتری است
+- [Free books to learn about tech topics](http://learnenough.com) - کتاب های رایگان برای یادگیری چیزهای مختلف مثل گیت و bash و ...
+- [Front-End Developer Handbook 2018](http://frontendmasters.com/books/front-end-handbook/2018) - کتاب نکات و  مسایل مهم در برنامه نویسی front-end در سال ۲۰۱۸
+- [A guide on how to be a Programmer](http://github.com/braydie/HowToBeAProgrammer) - کتاب رایگان خوبی در مورد راهکارهایی برای برنامه نویس بهتر شدن
+- [The best free JavaScript resources](http://jsbooks.revolunet.com) - کتاب ها و منابع رایگان برای یادگیری جاوااسکریپت در سطوح مختلف
+- [Learn intermediate things in python](http://github.com/yasoob/intermediatePython) - کتابی در سطح متوسط برای یادگیری نکات زبان پایتون
+- [Top mentioned books on stackoverflow.com](http://dev-books.com)  - لیستی از کتابهای برنامه نویسی که در سایت stackoverflow در سوال و جوابها معرفی شده

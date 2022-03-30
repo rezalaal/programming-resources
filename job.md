@@ -9,3 +9,13 @@
 - [A list of helpful front-end related questions.](http://github.com/h5bp/Front-end-Developer-Interview-Questions) - لیستی از سوالات مفید مرتبط با مصاحبه های برنامه نویسی فرانت اند
 - [Everything you need to kick ass on your coding interview](https://github.com/andreis/interview) - منابعی که برای شرکت در یک مصاحبه کاری برنامه نویسی به کار می آیند
 - [prepare yourself for a job interview with Ruby.](http://github.com/sagivo/algorithms) - سوال و جواب های مخصوص مصاحبه برنامه نویسی با زبان Ruby
+- [Practice questions and resources for coding interview](http://codingforinterviews.com/practice) - لیستی از منابع مفید برای شرکت در مصاحبه های برنامه نویسی
+- [good study guide to become a Google software engineer](http://github.com/jwasham/google-interview-university) - راهنمای جالبی برای استخدام در شرکت گوگل
+- [get hired by programming](http://hackajob.co) - در مسابقات و آزمون ها شرکت  کنید و در شرکتهای مختلف کار پیدا کنید
+- [Interview Questions and answers](http://glassdoor.com) - سوالات مصاحبه شغل های مختلف شرکت های مختلف و مطرح دنیا به همراه جواب
+- [Front-end Job Interview Questions](http://github.com/yangshun/front-end-interview-handbook) - سوالات مختلف برای مصاحبه شغلی برنامه نویسی فرانت اند
+- [List of lists of interview questions](http://github.com/MaximAbramchuck/awesome-interview-questions) - مجموعه ای از لیست های سوالات مصاحبه برنامه نویسی برای زبان های مختلف
+- [Practicing mock interviews & coding questions online](http://pramp.com) - شبیه ساز مصاحبه برنامه نویسی بصورت آنلاین
+- [Programming interview questions every week](http://interviewcake.com) - سوالات برنامه نویسی برای تقویت در مصاحبه های برنامه نویسی
+- [System design interview for IT companies](http://github.com/checkcheckzz/system-design-interview) - نکات و راهکارهایی برای مصاحبه های کاری مرتبط با معماری نرم افزار
+- [Level up your coding skills and quickly land a job](http://leetcode.com) - تمرینات برنامه نویسی و سوالات استخدامی شرکت های معروف دنیا

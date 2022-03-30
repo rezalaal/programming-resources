@@ -8,3 +8,4 @@
 - [Front-End Handbook](http://frontendmasters.gitbooks.io/front-end-handbook) - کتابی پر از منابع یادگیری برای front-end developer ها
 - [good docker articles in persian language](http://elastico.io) - آموزش های روان و خوبی برای مفاهیم مربوط به داکر 
 - [Run applications anywhere On windows.](http://turbo.net) - اگر با Docker کار کردید Turbo تقریبا همون کارها رو مخصوص ویندوز انجام میده.
+- [A curated list of Docker resources and projects](http://github.com/veggiemonk/awesome-docker) - لیستی از پروژه ها و منابع مفید مرتبط با داکر

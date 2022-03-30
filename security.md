@@ -25,3 +25,12 @@
 - [free-available articles and documents in web application security](http://owasp.org) - سایتی پر از مقالات و منابع امنیتی برای طراحی وب اپلیکیشن ها و ...
 - [Crowdsourced Application Security Testing](http://bugcrowd.com) - سایتی برای گزارش باگ های سایت های مختلف و دریافت جایزه — bug bounty
 - [Learn about a variety of computer security](http://exploit-exercises.com) - مسایل و چالش های مختلف امنیتی دنیای کامپیوتر 
+- [Awesome lists for pentesters and security researchers.](http://github.com/Hack-with-Github/Awesome-Hacking) - لیست جذابی برای علاقه مندان به دنیای امنیت
+- [Articles and tutorials for Security.](http://0x00sec.org) - آموزش های و مقالات و معرفی مسابقات مربوط به حوزه امنیت نرم افزار و کامپیوتر 
+- [Checklist of security notes when designing your API](http://github.com/shieldfy/API-Security-Checklist) - مجموعه نکات امنیتی هنگام طراحی و تست API
+- [tools to protect privacy in Internet.](http://privacytools.io) - ابزار و راهکارهایی برای اینکه بتوانید در اینترنت حریم شخصی خود را بهتر حفظ کنید
+- [Software security and rever engineering resources](http://opensecuritytraining.info) - سایتی پر از مطالب آموزشی مرتبط با امنیت و دنیای مهندسی معکوس نرم افزار
+- [Training ground for hackers to test and expand their hacking skills](http://hackthissite.org) - پلتفرم آنلاین برای یادگیری و گسترش مهارت های امنیتی
+- [Python tools for penetration testers](http://github.com/dloss/python-pentest-tools) -    ابزار پایتونی برای کارهای امنیتی و تست نفوذ
+- [Free class for web security](http://github.com/Hacker0x01/hacker101) - کلاس رایگانی برای یادگیری امنیت وب اپلیکیشن ها
+- [Build, host and share vulnerable web application for free](https://hack.me) - سایتی برای قوی کردن مهارت های امنیتی شامل برنامه ها و چالشهای مختلف

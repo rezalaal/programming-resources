@@ -10,3 +10,4 @@
 - [Larn things about deep learning and AI.](http://wildml.com) - سایتی برای آموزش یادگیری عمیق و مسایل مختلف هوش مصنوعی و پردازش زبان طبیعی
 - [Deep Learning tutorials, projects and more](http://github.com/ChristosChristofidis/awesome-deep-learning) - آموزش های و پروژه ها وکلی چیز دیگه درباره یادگیری ژرف
 - [Deep Learning tutorials with Python.](http://github.com/sachinruk/deepschool.io) - آموزش interactive یادگیری عمیق با پایتون
+- [Deep Learning book and resources.](http://deeplearning.net/tutorial) - منابع آموزشی برای یادگیری ژرف بصورت ساده و روان

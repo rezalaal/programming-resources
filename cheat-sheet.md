@@ -8,4 +8,5 @@
 - [cheat sheets for software developers](http://lzone.de) - تقلب نامه های جالبی برای برنامه نویسان
 - [HTTP Status Codes cheat sheet](http://httpstatuses.com) - لیست کامل کدهای HTTP Status
 - [System Design Cheatsheet](http://gist.github.com/vasanthk/485d1c25737e8e72759f) - راهنما جامع شامل نکات و تکنیک های طراحی سیستم های نرم افزاری
-
+- [reverse engineering for malware analysis cheat sheet](http://bit.ly/2sryPWx) - تقلب نامه جمع و جوری مخصوص مهندسی معکوس برای تحلیل بدافزار
+- [Cheat Sheets for AI, Neural Networks, Machine Learning and more](http://bit.ly/2kYNSAd) - تقلب نامه ای کامل برای انواع مطالب مرتبط با هوش مصنوعی

@@ -10,3 +10,5 @@
 - [Ultimate Android Refrence](http://github.com/aritraroy/UltimateAndroidReference) - آموزش و راهکارهایی برای برنامه نویسی بهتر اندروید
 - [android interview questions](http://github.com/JackyAndroid/AndroidInterview-Q-A/tree/master/english) - مجموعه سوالات مصاحبه های برنامه نویسی شرکت های بزرگ در مورد Android 
 - [Tutorials and articles and more about Android security](http://droidsec.org/wiki/) - مقالات و آموزشهای امنیتی برای سیستم عامل اندروید
+- [Samples and architectural patterns for Android apps.](http://github.com/googlesamples/android-architecture) - معماری های مختلف نرم افزاری برای برنامه های اندرویدی
+- [Network traffic sniffer app](http://play.google.com/store/apps/details?id=app.greyshirts.sslcapture&hl=en) - برنامه اندروید برای sniff کردن به همراه رمزگشایی SSL

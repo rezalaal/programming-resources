@@ -32,3 +32,7 @@
 - [Mr.Robot Explain commands.](http://medium.com/@ryankazanciyan) - توضیحات دستورات لینوکس و ... که در سریال MR.robot اجرا میشوند.
 - [AWESOME Linux applications and tools.](http://voluong.gitbooks.io/awesome-linux-software/content) - مجموعه ای از بهترین برنامه ها و ابزار برای سیستم عامل لینوکس 
 - [Command-line interface to request a ride with Snapp](https://github.com/kharazi/snapp-cli) - با استفاده از ترمینال اسنپ بگیرید.
+- [Flashcard-style game to learn and improve your Vim skills](http://vimgenius.com) - یادگیری ادیتور Vim با استفاده از فلش کارد و بصورت interactive
+- [redirert every terminal program through predefined proxy](http://github.com/rofl0r/proxychains-ng) - با این ابزار هر برنامه ای را در ترمینال از طریق پروکسی خود به اینترنت متصل کنید
+- [Master the command line, in one page](http://github.com/jlevy/the-art-of-command-line) - با خواندن این یک ضفحه در استفاده از ترمینال لینوکس استاد شوید !
+- [Series of programming exercises for the Linux kernel](http://github.com/agelastic/eudyptula) - یه سری تمرین برای تقویت برنامه نویسی در کرنل لینوکس

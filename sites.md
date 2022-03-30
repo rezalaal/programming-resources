@@ -1,6 +1,12 @@
 # Sites 
 
 - [Main](./README.md) - بازگشت به صفحه اصلی 
+
+
+## Blockchain
+- [A visual demo of blockchain technology](http://blockchaindemo.io) - دموی interactive روش کارکرد blockchain
+
+
 ## CheckList 
 - [marketing tactics and ideas for launch your project.](http://sideprojectchecklist.com/marketing-checklist) - چک لیستی از مواردی که بهتر است برای مارکتینگ پروژه های خود انجام دهید
 
@@ -10,43 +16,53 @@
 - [AlphaZero defeats world's strongest chess engine](http://lichess.org/broadcast/alphazero-versus-stockfish/I9dg6H62) - برنامه جدید گوگل قوی ترین موتور شطرنچ دنیا رو شکست داد.
 
 
-## Data Science 
-- [datascience walkthrough](http://datascienceontology.com) - نقشه راه یادگیری علم داده
-- [Data Science Resources](http://dataschool.io/resources) - منابع برای علم داده
-- [Learn data science interactively online](http://dataquest.io) - یادگیری interactive علم داده
-- [learn data science online with R & python langs.](http://datacamp.com) - یادگیری علوم داده با استفاده از R و python با روشی جذاب :)
 
-## Frontend 
-- [List of libraries and tools for frontend web development](http://github.com/moklick/frontend-stuff) - لیستی از ابزار و کتابخانه های کاربردی برای فرانت اند
-- [Frontend Development Bookmarks](http://github.com/dypsilon/frontend-dev-bookmarks) - لینک های مفیدی برای برنامه نویسی front-end
-- [list of frontend development resources](https://gist.github.com/dypsilon/5819504) - لیستی از منابع برای یادگیری بهبود برنامه نویسی سمت کاربر
-- [Front-End-Checklist and best practices](http://frontendchecklist.com) - تجربیات مفید و کاربردی برای برنامه نویسی فرانت اند سایت :)
-- [UX Project Checklist](http://uxchecklist.uxbook.org) - یک چک لیست تجربه کاربری که هر طراحی به آن نیاز دارد. (فارسی و انگلیسی)
-- [Best of design & development inspiration](http://uplabs.com) - سایتی پر از الگوهای طراحی برای وب و موبایل و ... که میتوان از آنها برای طراحی برنامه ایده گرفت
 
-## Fun
-- [Home of shitty code](http://shitcode.net) -  مجموعه ای از کدهای داغون و خنده دار :))
-- [fun facts in developers daily life :)](http://commitstrip.com) - تصاویر و comic های بامزه ای از دنیای روزمره برنامه نویسان
-- [learn by doing fun quizzes :)](http://codequizzes.com) - یادگیری چند زبان برنامه نویسی با امتحان های کوتاه و جالب
-- [learn python and linux basics with fun](http://thehelloworldprogram.com) - یادگیری پایتون و لینوکس با مثال های جالب و بامزه :))
-- [anonymous confessions from programmers :)](http://codingconfessional.com) - سایتی پر از اعتراف ها و نکات جالبی که برنامه نویسان ناشناس آنها را بازگو میکنند. شما هم میتوانید اقرار خود را بنویسید:)
+##  Fonts 
+- [over 50 Free Programming fonts](http://app.programmingfonts.org) - بیش از ۵۰ فونت رایگان مخصوص برنامه نویسی
+
 
 
 ## Functional Programming 
 - [Jargon from the functional programming world in simple terms](http://git.io/fp-jargons) -    آموزش اصطلاحات functional programming به زبان ساده :)
 
 
+
+## GraphQL
+- [Free and open-source tutorial to learn all around GraphQL](http://howtographql.com) -    آموزش های رایگان برای graphql 
+
+## Icons 
+- [Icons for everything](http://thenounproject.com) - مجموعه ای از آیکن های متنوع
+- [Web & Mobile Icon set.](http://pixelbuddha.net/freebie/web-and-mobile-icons-bundle) - آیکون های آماده در فرمت های مختلف برای استفاده در وب و موبایل
+
+
 ## IOT
 - [List of great resources about IoT](http://phodal.github.io/awesome-iot) - مجموعه ای از منابع مفید برای پروژه های اینترنت چیزها (IOT)
+
+
+## Machine Learning 
+- [Machine Learning Guide Podcasts](http://ocdevel.com/podcasts/machine-learning) - پادکست هایی برای یادگیری machine learning
+- [A mindmap summarising Machine Learning concepts.](http://github.com/dformoso/machine-learning-mindmap) - محموعه ای از mindmap ها برای مفاهیم یادگیری ماشین
 
 ## Magazine
 - [computer related magazines](http://magbaz.com/?str=0&listview=&numinp=24&sort=&topic=7) - دانلود مجله های مرتبط با کامپیوتر و برنامه نویسی
 - [web magazine for developers](http://thedotpost.com) - مجله آنلاین برای برنامه نویسان
 
 
-## Musics 
-- [Improve focus by listening to nature sounds](http://noisli.com) - با ترکیب صداهای طبیعت و چیزهای دیگر تمرکز خود را هنگام کار افزایش دهید
-- [collection of good musics for programming](http://musicforprogramming.net) - این سایت شامل چندین آهنگ مناسب برای برنامه نویسی هست که تمرکزتون رو موقع کد زدن بیشتر میکنه البته همشون نه :))
+## Microservices 
+- [Microservices Resource Guide](http://martinfowler.com/microservices) - مقاله ای از martin fowler درباره microservice ها و اینکه چه موقعی باید از آن استفاده کرد
+
+## Project Management
+- [project management platform for agile developers & designers and project managers.](http://taiga.io) - سیستم مدیریت پروژه با ظاهری جذاب و دارای پلن رایگان 
+- [project management tool with free plan](http://trello.com) - ابزار مدیریت پروژه آنلاین با پلن رایگان
+
+
+## Typing 
+- [typing practice for programmers](http://speedcoder.net) - تمرین تایپ مخصوص برنامه نویسان با نمونه های آماده از زبان های برنامه نویسی مختلف مثل پایتون و روبی و ...
+- [improve your type speed while coding](https://typing.io) - با این سایت میتونین سرعت تایپ خودتون رو هنگام برنامه نویسی افزایش بدید
+- [Learn touch Typing for Free](http://typing.com/student/start) - بصورت رایگان و آنلاین به همراه مرحله های مختلف مهارت تایپ خود را بهبود ببخشید
+
+
 ## RESTful
 - [How to do stuff RESTful. learn details of RESTful API](http://restcookbook.com) - یادگیری برنامه نویسی RESTful API و جزییات آن
 - [learn RESTful programming](http://restapitutorial.com) - یادگیری برنامه نویسی RESTful
@@ -54,15 +70,18 @@
 ## Raspberry PI
 - [Control your Arduino, Raspberry PI with restFull framework.](http://arest.io) - این سایت برای رزبری و آردوینو شما سرویس restFull ارایه میدهد.
 - [learn Raspberry pi with practical projects](https://learn.adafruit.com/series/learn-raspberry-pi) - یادگیری برد رزبری پای با استفاده از آموزش های عملی و جذاب
+- [The official raspberry-pi magazine](http://raspberrypi.org/magpi) - مجله رزبری پای  شامل پروژه ها و اتفاقات جدید مرتبط با رزبری
 
 
 
-## SQL 
-- [awesome dashboard for ask questions and learn from data.](http://metabase.com) - یک داشبورد متن باز و رایگان برای کوئری زدن به دیتابیس و نمایش و یادگیری از داده های آن
-- [The Internals of PostgreSQL.](http://interdb.jp/pg) - کتاب ترجمه شده ای به زبان انگلیسی برای معرفی جزییات و قسمتهای درونی پایگاه داده postgreSQL
-- [making SQL query in Stackoverflow questions](http://data.stackexchange.com/stackoverflow/query/new) - با SQL Query در بین سوالات استک جستجو کنید  
-- [online SqLite Manager, Browser, Viewer, Editor ](http://sqliteonline.com) - ابزار آنلاین برای کار با دیتابیس sqlite
-- [Learn by doing SQL tutorial](http://sqlteaching.com) - آموزش دستورات SQL به صورت ساده و روان
+## Ruby 
+- [Learn Ruby language with interactive tutorials.](http://rubymonk.com) - یادگیری زبان روبی بصورت interactive و همراه با مثال
+- [Learning Ruby through unit testing](http://rubykoans.com) - یادگیری زبان روبی با استفاده از unit testing
+
+
+## TDD 
+- [Programming Katas to improve TDD skills.](http://codingdojo.org/kata) - مسایل کوچک برنامه نویسی برای دست گرمی و تمرین برنامه نویسی تست محور (TDD)
+- [learn scala with tdd approach and interactive](http://scala-exercises.org) - یادگیری زبان اسکالا با آموزشها و تمرینهای interactive
 
 ## Learning and more...
 - [notes for programmers](http://www.coderz.ir) - گاه نوشتی برای برنامه نویسان
@@ -73,7 +92,7 @@
 - [45 OF THE BEST PLACES TO LEARN TO CODE FOR FREE](http://learntocodewith.me/posts/code-for-free) - 45 سایت برای یادگیری رایگان برنامه نویسی
 - [reviews about different IT techs you can trust](https://www.itcentralstation.com) - سایتی که در آن ابزارها و برنامه های مختلف مرتبط با آی تی مورد نقد و بررسری قرار گرفته
 - [Learn to Design and Develop Websites](http://www.afterhoursprogramming.com) - یادگیری برنامه نویسی وب با آموزش های جذاب
-- [Logic/Math Problems with varying difficulties](https://aproblemaday.quora.com) - مسایل زیاضی و منطقی جالب برای قوی کردن مهارت های تفکر وحل مساله
+- [Logic/Math Problems with varying difficulties](https://aproblemaday.quora.com) - مسایل ریاضی و منطقی جالب برای قوی کردن مهارت های تفکر وحل مساله
 - [A curated list of awesome awesomeness](http://github.com/bayandin/awesome-awesomeness) - لیستی از بهترین آموزش های زبان های مختلف در گیت هاب
 - [Google Style Guides](https://github.com/google/styleguide) - راهنمای سبک کد زدن در پروژه های متن باز گوگل
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) - خودآموز برنامه نویسی در ۱۰ سال
@@ -85,9 +104,7 @@
 - [web & mobile engineering skills by building real projects](http://thinkster.io) - یادگیری برنامه نویسی وب و موبایل با انجام پروژه
 - [categorized interview questions](http://intellipaat.com/interview-questions) - سوال و جوابهای دسته بندی شده  برای مصاحبه های برنامه نویسی
 - [what is the best programming language to learn in 2016](http://bestprogramminglanguagefor.me/q) - بهترین زبان برنامه نویسی مناسب با کار شما چیست ؟
-- [improve your type speed while coding](https://typing.io) - با این سایت میتونین سرعت تایپ خودتون رو هنگام برنامه نویسی افزایش بدید
 - [code practice for java and python](http://codingbat.com) - تمرین برنامه نویسی برای زبان های جاوا و پایتون
-- [jadi mirmirani site a computer GEEK :)](http://jadi.net) - سایت جادی میرمیرانی از گیک های حوزه دنیای آزاد و متن باز :)
 - [A curated list of podcasts we like to listen to](http://github.com/guipdutra/awesome-geek-podcasts) - لیستی از پادکست های برگزیده برای برنامه نویسی
 - [Download programming videos from famous mooc sites](http://www.tutdl.ir) - دانلود ویدیوهای آموزشی سایت های معروف مثل udemy و pluralsight و ...
 - [A Huge List of Free resources and books for programming](http://programming-motherfucker.com/become.html) - لیست بزرگی از آموزش ها و کتابهای رایگان آنلاین برنامه نویسی
@@ -100,16 +117,10 @@
 - [Web Development Teaching Materials](http://teaching-materials.org) - سایتی برای یادگیری قسمت های مختلف وب با اسلاید و فیلم های آموزشی
 - [ACM online judge with huge problem sets](http://sharecode.io) - سایتی پر از سوالات مسابقات برنامه نویسی به همراه امکان submit کردن جوابها برای تست
 - [Learn programming by doing with gamification](http://codeschool.com) - سایتی برای یادگیری مهارت های مرتبط با برنامه نویسی وب با استفاده از بازی گونه کردن آموزش
-- [application programming interfaces for companies](http://mashape.com) - سایتی پر از api های مختلف برای استفاده در برنامه نویسی
-- [learn code by game :)](http://codecombat.com) - یادگیری برنامه نویسی با انجام بازی
 - [List of free programming MOOCs](https://github.com/fffaraz/MOOC) - لیستی از منابع رایگان برای برنامه نویسی و درس های کامپیوتری
 - [Pass certification exam faster !](http://skillset.com) - سایتی جالب برای تست مهارت های مختلف کامپیوتری و آمادگی شما برای گرفتن مدرک های مختلف
 - [Curated list of awesome lists in github](http://github.com/sindresorhus/awesome) - لیستی از بهترین لیست های آموزشی در گیت هاب
-- [get hired by programming](http://hackajob.co) - در مسابقات و آزمون ها شرکت  کنید و در شرکتهای مختلف کار پیدا کنید
 - [Awesome c++ libraries and frameworks](https://github.com/fffaraz/awesome-cpp) - لیستی کامل از کتابخانه ها و فریمورک ها و منابع مفید برای زبان سی پلاس پلاس
-- [Learn, Build, & Test RegEx](http://regexr.com) - سایتی برای یادگیری و ساخت و تست عبارات باقاعده به صورت interactive
-- [online regex tester and debugger](http://regex101.com) - محیط آنلاین برای تست کردن عبارات منظم با مجموعه زیادی مثال های آماده
-- [good study guide to become a Google software engineer](http://github.com/jwasham/google-interview-university) - راهنمای جالبی برای استخدام در شرکت گوگل
 - [list of Machine Learning frameworks, libraries](http://github.com/josephmisiti/awesome-machine-learning) -   http://github.com/josephmisiti/awesome-machine-learning
 - [Exploit Database Archive](http://exploit-db.com) - محلی پر از اکسپلویت های مختلف برای پلتفرم های مختلف
 - [Online computer programming competitions in the Java, C++, and C# languages](http://topcoder.com) - مسابقات برنامه نویسی آنلاین با زبان های C++ و java و C#
@@ -134,7 +145,6 @@
 - [quick refrence for programming languages](http://dotnetperls.com) - موارد پرکاربرد زبان های مختلف برنامه نویسی را در یک نگاه با مثال ببینید
 - [free website to programming in c++ from scratch :)](http://learncpp.com) - سایتی خوب برای یادگیری زبان سی پلاس پلاس
 - [online programming problems with judge](http://spoj.com) - سایتی خوب برای حل کردن مسایل مرتبط با الگوریتم به همراه مسابقات آنلاین
-- [stackoverflow blog](http://stackoverflow.blog) - بلاگ استک اورفلو پر از مطالب مختلف برنامه نویسی و گیکی ‌:))
 - [good refrence site for learning c++](http://cplusplus.com) - سایتی برای یادگیری زبان برنامه نویسی سی پلاس پلاس
 - [computer olympiad resources and contests](http://usaco.org) - سایتی پر از سوالات و منابع برنامه نویسی به سبک ACM و المپیاد کامپیوتر
 - [share code in real-time with other developers](http://codeshare.io) - کد خود را بصورت real-time با برنامه نویسان دیگر به اشتراک بگذارید
@@ -143,18 +153,14 @@
 - [web-based interactive programming puzzles](http://codehunt.com) - سایتی با مسایل برنامه نویسی مختلف بصورت جذاب و interactive
 - [online judge with different level of problems](http://a2oj.com) - یک جاج آنلاین با سوالهای برنامه نویسی متنوع در سطوح مختلف
 - [hundreds of programming problems to solve.](http://open.kattis.com) - کلی سوال برنامه نویسی که میتونید با زبان های برنامه نویسی مختلف آنها را حل کنید و رتبه خود را بالاتر ببرید
-- [typing practice for programmers](http://speedcoder.net) - تمرین تایپ مخصوص برنامه نویسان با نمونه های آماده از زبان های برنامه نویسی مختلف مثل پایتون و روبی و ...
 - [archive of programming questions](http://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge) - آرشیوی از سوالات برنامه نویسی متنوع در سطوح مختلف
 - [Programming tips, tools from developer community.](http://coderwall.com) - نکات و trick های برنامه نویسی رو از برنامه نویس های دیگر در این سایت بیاموزید
 - [online free sharif video courses.](http://ocw.sharif.edu) - درس افزار دانشگاه شریف پر از ویدیوهای مختلف دروس دانشگاهی
-- [Practice questions and resources for coding interview](http://codingforinterviews.com/practice) - لیستی از منابع مفید برای شرکت در مصاحبه های برنامه نویسی
 - [small programming puzzles for a variety of skill levels.](http://adventofcode.com) - پازلهای کوچک برای تمرین برنامه نویسی
 - [collection of exercises for programmers](http://programmingpraxis.com) - مجموعه ای از تمرینات برنامه نویسی
 - [chrome devtools tips and tricks](http://umaar.com/dev-tips) - ترفندها و آموزشهای استفاده بهتر از ابزار قدرتمند chrome devtools اگر برنامه نویس وب هستید این سایت را از دست ندهید
 - [learn git with step by step walkthrough](http://gitimmersion.com) - یادگیری برنامه git با انجام یک پروژه مرحله به مرحله با زبان برنامه نویسی روبی
-- [learn scala with tdd approach and interactive](http://scala-exercises.org) - یادگیری زبان اسکالا با آموزشها و تمرینهای interactive
 - [material design guidelines](http://material.io/guidelines) - آموزش material design که توسط گوگل توسعه یافته و درباره اصول درست طراحی است
-- [good online book for learning erlang](http://learnyousomeerlang.com/content) - کتاب آنلاین خوبی برای یادگیری زبان برنامه نویسی ارلنگ
 - [A guide for programming in style.](http://github.com/thoughtbot/guides) - راهنمایی برای بهترین تجربیات و نکات مهم در برنامه نویسی
 - [A Free Competitive Programming Course](http://algo.is/t-414-aflv-competitive-programming-course-2016) - درسهایی برای بهبود عملکرد شرکت در مسابقات برنامه نویسی شبیه به ACMو...
 - [compare multiple things based on google searches over the time](http://trends.google.com) - برای مقایسه میزان محبوبیت چیزهای مختلف براساس سرچ گوگل  از این سرویس استفاده کنید
@@ -165,54 +171,61 @@
 - [small projects implemented in different languages](http://github.com/SambitAcharya/Mini-Projects) -  پروژه های کوچک با زبان برنامه نویسی های مختلف به همراه پیاده سازی 
 - [What every Browser knows about you](http://webkay.robinlinus.com) - چیزهایی که هر مرورگری درباره شما میداند!!
 - [Selected Papers in Anonymity From 1977 to 2017](http://freehaven.net/anonbib) - بهشتی از مقالات مختلف در زمینه anonymity از سالهای 1977 تا2017
-
-- [A webcomic of romance,sarcasm, math, and language :)))](http://xkcd.com) -   سایتی پر از comic های گیکی و اکثرا مرتبط با دنیای کامپیوتری ها :)))
-- [document, test, and build web APIs with free plans](http://stoplight.io) - API های خود را با این سایت داکیومنت و تست کنید به همراه پلن رایگان
+- [A webcomic of romance,sarcasm, math, and language :)](http://xkcd.com) -   سایتی پر از comic های گیکی و اکثرا مرتبط با دنیای کامپیوتری ها :)))
 - [Learn programming with awesome practical videos.](http://codek.tv) - یادگیری برنامه نویسی با ویدیوهای عملی و جذاب(فیلترشکن لازم)
 - [Scala School by twitter](http://twitter.github.io/scala_school) -    یادگیری زبان برنامه نویسی اسکالا
-- [project management platform for agile developers & designers and project managers.](http://taiga.io) - سیستم مدیریت پروژه با ظاهری جذاب و دارای پلن رایگان 
 - [Learn Anything ! with interactive mind Map](http://bit.ly/learning-mind) - یک mind map برای منابع یادگیری تقریبا همه چیز !
 - [List of failed startups and story behind them](http://startupgraveyard.io) - لیستی از استارتاپ های شکست خورده و علت شکست خوردن آنها
 - [NumPy for MATLAB users](http://mathesaurus.sourceforge.net/matlab-numpy.html) - یادگیری NumPy برای کسانی که با Matlab کار کرده اند.
 - [Open Source Apps To Grow Your Business.](http://github.com/odoo/odoo) - نرم افزار متن باز odoo برای مدیریت پروژه و کلی کار دیگر 
-- [code your bot to fight with others](http://fightcodegame.com) - برنامه تانک خود را بنویسید تا بقیه را شکست دهد.
-- [Space strategy game where coding is your extra weapon.](http://empireofcode.com) - بازی شبیه به clash of clans که در آن میتوان از برنامه نویسی استفاده کرد
 - [Free Softwares and web apps which can be hosted locally.](http://github.com/Kickball/awesome-selfhosted) - سرویسهای رایگانی که میتوانید آنها را روی کامپیوتر خود اجرا کنید
 - [A list of SaaS, PaaS and IaaS offerings that have free tiers.](http://github.com/ripienaar/free-for-dev) - لیستی از ارایه دهندگان PaaS و ... به همراه پلن رایگان
-- [Learn Regular Expressions with interactive exercises.](http://regexone.com) - یادگیری عبارات باقاعده با تمرینات متنوع  به صورت interactive
 - [The Computer Language Benchmarks](http://benchmarksgame.alioth.debian.org) - مقایسه سرعت و کارایی زبان های برنامه نویسی مختلف در شرایط و برنامه های مختلف
 - [Web Framework Benchmarks](http://techempower.com/benchmarks/) - مقایسه سرعت و کارایی فریمورک های مختلف وب از جنبه های مختلف
 - [Run and share your code online](http://code.runnable.com) - کدهای خود را به صورت آنلاین اجرا کنید و به اشتراک بگذارید
-- [project management tool with free plan](http://trello.com) - ابزار مدیریت پروژه آنلاین با پلن رایگان
 - [5 minute daily workout in your phone](http://enki.com) - با نصب enki روی تلفن همراه خود تمرینات برنامه نویسی روزانه انجام دهید.
 - [resources for learning fundamental concepts in programming](http://mycodeschool.com) - ویدیوهای آموزشی به همراه تمرینات متنوع برای یادگیری مفاهیم پایه برنامه نویسی
 - [everything about Semantic Versioning ](http://semver.org) - همه چیز درمورد نسخه بندی معنایی نرم افزارها
-- [Perisan blog about agile development](http://blog.scrum.ir) - پنجره ای به دنیای توسعه چابک نرم افزار
 - [Try Redis online](http://try.redis.io) - دیتابیس Redis را بصورت آنلاین و interactive امتحان کنید و یاد بگیرید
 - [Twelve-Factor App methodology for Web Apps.](http://12factor.net) - توضیح درمورد متدولوژی 12Factor برای وب اپلیکیشن ها
 - [Jadi Understanding programming videos (Persian)](http://bit.ly/2vvn6Dw) - ویدیوهای رایگان درک برنامه نویسی جادی
 - [Static site generator with many themes.](http://gohugo.io) - اگر میخواهید سریع و بدون دنگ و فنگ یه سایت استاتیک شیک بیارین بالا hugo یکی از بهترین گزینه هاست
-- [Learn regex the easy way.](http://github.com/zeeshanu/learn-regex) - آموزش عبارات باقاعده (یا regex) به زبان ساده و  روان
-- [Transform your plain text into static websites and blogs.](http://jekyllrb.com) - اگه حال و حوصله ساخت سایت رو ندارید علاوه بر hugo این سایت هم تست کنید.
-- [A Study Path for Game Programmer](http://github.com/miloyip/game-programmer) - مسیر های مطالعاتی برای برنامه نویسی بازی های کامپیوتری
 - [bitwise operations and tricks](http://github.com/keon/awesome-bits) - حقه ها و کلک های قابل انجام با عملگرهای بیتی (با سینتکس زبان سی)
 - [Being A Developer After 40](http://bit.ly/programming-after-40-yo) - برنامه‌نویس بودن بعد از چهل سالگی
 - [A collection of things Every Programmer Should Know](http://github.com/mr-mig/every-programmer-should-know) - مجموعه ای از مواردی که هر برنامه نویسی باید بداند
-- [jQuery tips every web developer should know](http://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)  - نکات کاربردی در jQuery که هر توسعه دهنده وب باید بداند.
-- [Icons for everything](http://thenounproject.com) - مجموعه ای از آیکن های متنوع
-- [answer to questions via trees.](http://arguman.org/channels/programming) - روش درختی را برای مطرح کردن علت برای سوالهای مختلف برنامه نویسی
-- [JS presentation framework.](http://github.com/impress/impress.js) - اگر از پاورپوینت برای ساختن اسلاید خسته شدید از impress.js استفاده کنید کافیه یه کم HTML بلد باشید همین :)
-- [online free impress.js slide editor](http://strut.io/editor) - با این سایت میتونید به صورت آنلاین اسلایدهای impress.js بسازید.
+- [answer to questions via trees.](http://arguman.org/channels/programming) - روش درختی 
 - [Learn how to design large-scale systems.](http://github.com/donnemartin/system-design-primer) - چگونه سیستم های بزرگ نرم افزاری را باید طراحی کرد ؟
 - [Ebooks and Videos for programming](http://coderprog.com) - کتاب ها و ویدیوهای یادگیری موضوعات مختلف برنامه نویسی بصورت رایگان
 - [Make your own Vector field and see how it works.](http://anvaka.github.io/fieldplay) - میدان برداری خود را بسازید و بصورت realtime آن را مشاهده کنید
 - [Data Models for different projects.](http://www.databaseanswers.org/data_models) - نمودارهای طراحی شده جدول های دیتابیس برای پروژه های مختلف 
-- [code quality reports (free for open source projects)](http://codebeat.co) -  تحلیل کیفی کدهای پروژه به صورت آنی (رایگان برای پروژه های متن باز) 
-- [over 50 Free Programming fonts](http://app.programmingfonts.org) - بیش از ۵۰ فونت رایگان مخصوص برنامه نویسی
 - [Udacity Nanodegree free programs.](http://github.com/mikesprague/udacity-nanodegrees) - لیستی از درس های رایگان سایت udacity همراه با دسته بندی مطالب
 - [D3.js charts and maps for Python, MATLAB, R and more.](http://plot.ly/api) - کشیدن نمودار و نقشه و کلی چیز دیگه برای زبان های پایتون و R و ...
-- [A Happy Persian Programmer Blog](http://elmah.ir) - یادداشت های جالب و کاربردی یک برنامه نویس خوشحال :)
-- [List of Persian site APIs](http://github.com/hameds/apis-made-in-iran) - لیست API های ارائه شده توسط سایت‌های ایرانی
-- [a drunk person could use your site!!](http://theuserisdrunk.com) - سایتی رو به دوستمون معرفی میکنید. ایشون مست میکنن و UX سایتتون رو چک میکنن :))
 - [Tips to approach tech internships.](http://evykassirer.github.io/playing-the-internship-game) - نکات و تکنیک های مفید برای کارآموزی در شرکت های کامپیوتری
 - [Technical things every software developer should know](http://github.com/mtdvio/every-programmer-should-know) - موارد مهمی که هر مهندس نرم افزار باید بداند 
+- [Learn programming with interactive practice and projects](http://glitch.com) - یادگیری برنامه نویسی بصورت جذاب و همراه با پروژه های کاربردی متنوع
+- [Improve Vocabulary while browing the web.](http://goo.gl/d4J6gf) - دایره لغات انگلیسی خود را هنگام جستجو در وب با این extension افزایش دهید
+- [search awesome topics and libraries](http://lib4dev.com) - کتابخانه ها و repo های معروف را با دسته بندی زبانها و تکنولوژیها در این سایت پیدا کنید
+- [Scalability tips in Back-end Development](http://github.com/binhnguyennus/awesome-scalability) - نکات و آموزشهای کاربردی برای بهتر کردن scalability در برنامه نویسی
+- [Search books,videos and courses for developers](https://hacksource.xyz) - بین حدود ۲۰ هزار منبع مختلف برنامه نویسی سرچ کنید و خود را برنامه نویس بهتری کنید
+- [Learn anything !](https://learn-anything.xyz) - در این سایت منابع برای یادگیری هر چیزی را میتوانید پیدا کنید و اگر منبعی میشناسید به سازنده آن در github معرفی کنید
+- [Learn Computer Science by doing projects](http://theodinproject.com) - مباحث مختلف در برنامه نویسی را با انجام پروژه های واقعی و تعریف شده یاد بگیرید
+- [Learn every language in a few minutes !](http://learnxinyminutes.com) - یادگیری سینتکس و توضیحات مربوط به تقریبا هر زبانی بصورت ساده و روان
+- [Fast, offline, and free documentation browser for developers](http://devdocs.io) - داکیومنت آنلاین و رایگان برای اکثر زبان ها و تکنولوژی های موجود با قابلیت مشاهده آفلاین
+- [good site for personalized computer science learning.](http://metacademy.org/browse) - سایتی که راه یادگیری مباحث مختلف کامپیوتری را میتوان در آن یافت
+- [Learn shortcuts work smarter](http://shortcutfoo.com) - سایتی با محیط interactive برای یادگیری میانبرها و تکنیک های کاربردی مختلف برنامه نویسی و کامپیوتری
+- [Free online tools for deveoplers](http://codebeautify.org) - ابزارهای آنلاین مخصوص برنامه نویسان
+- [A collection of introductory technology tutorials](http://ryanstutorials.net) - مجموعه ای از آموزشهای مختلف در حوزه های لینوکس و برنامه نویسی و ...
+- [Reverse Engineering challenges](http://challenges.re) - سایتی پر از سوالات مختلف جهت قوی کردن مهارت های مهندسی معکوس و برنامه نویسی به زبان assembly
+- [Possibly the smallest compiler ever for learning purpose](http://git.io/compiler) -  کوچکترین کامپایلر دنبا برای یادگیری چگونگی کارکرد کامپایلرها
+- [daily programming puzzles](http://reddit.com/r/dailyprogrammer) - یک subreddit که هر روز مسایل برنامه نویسی با سطح سختی های مختلف قرار میدهد
+- [Good site for Learn how to code interactively](http://codecademy.com) - سایت خوبی برای آموزش مقدمات یادگیری برنامه نویسی بصورت جذاب و interactive
+- [Improve RISC assembly with interactive challenges](http://microcorruption.com) - محیط interactive برای تقویت مهندسی معکوس مخصوصا برای معماری RISC
+- [why 0.1 + 0.2 is not 0.3 in programming :)](http://0.30000000000000004.com) - آیا میدانید که در اکثر زبان های برنامه نویسی جمع دو عدد 0.2 و 0.1 عدد 0.3 نمیشود ؟
+- [Run KolibriOS, Linux or Windows 1.01 and ... in your browser](http://copy.sh/v86) - اجرا کردن سیستم عامل های کم حجم مثل ویندوز ۱.۰۱ و ... داخل مرورگر بصورت آنلاین
+- [Online interpreters for programming languages](https://tio.run/) - تقریبا اجراکننده کد هر زبانی را در این سایت میتوانید پیدا کنید و کد خود را اجرا کنید
+- [Learn to code with free online courses](http://freecodecamp.org) - یادگیری برنامه نویسی با پروژه های عملی و رایگان
+- [Collection of projectBased programming tutorials](http://github.com/danistefanovic/build-your-own-x) - آموزش های پروژه محور برای ساختن تقریبا هرچیزی
+- [OpenSource self hosted file sharing platform](http://nextcloud.com) - سیستم رایگان به اشتراک گذاری فایل (شبیه به DropBox) بصورت self-host
+- [Artificial intelligence programming challenge](http://halite.io) - هوش مصنوعی بات خود را با زبان دلخواه بسازید و در این بازی دوبعدی حریفان را شکست دهید
+- [A list of awesome online development environments](http://github.com/styfle/awesome-online-ide) - لیستی از بهترین محیط های آنلاین برای کد زدن
+- [Learn how to design large-scale systems](http://github.com/donnemartin/system-design-primer) - آموزش و نکاتی برای چگونه طراحی کردن سیستم های scalable

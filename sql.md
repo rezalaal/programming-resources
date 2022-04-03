@@ -5,6 +5,7 @@
 
 
 - [Main](./README.md) - بازگشت به صفحه اصلی 
+- [Forgetting or don't understand something in SQL? Animate away your SQL questions by choosing a keyword and pressing Visualize!](https://animatesql.com) - چیزی رو توی SQL یادتون رفته یا درست درک نمیکنین چجوری کار میکنه ؟ با کمک این سایت و schema های آماده میتونین انواع و اقسام query بزنین و بصورت انیمیشن و جذاب بفهمین چه اتفاقاتی میفته :)
 - [awesome dashboard for ask questions and learn from data.](http://metabase.com) - یک داشبورد متن باز و رایگان برای کوئری زدن به دیتابیس و نمایش و یادگیری از داده های آن
 - [The Internals of PostgreSQL.](http://interdb.jp/pg) - کتاب ترجمه شده ای به زبان انگلیسی برای معرفی جزییات و قسمتهای درونی پایگاه داده postgreSQL
 - [making SQL query in Stackoverflow questions](http://data.stackexchange.com/stackoverflow/query/new) - با SQL Query در بین سوالات استک جستجو کنید  

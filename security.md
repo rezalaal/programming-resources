@@ -1,6 +1,7 @@
 # Security 
 
 - [Main](./README.md) - بازگشت به لیست صفحه اصلی
+- [ALL IN ONE Hacking Tool For Hackers and security enthusiasts.](https://github.com/Z4nzu/hackingtool) - ابزارهای مختلف برای هک و کارهای امنیتی که در یکجا جمع شده‌اند.
 - [security related articles](http://null-byte.wonderhowto.com) - این سایت پر از مطالب امنیتی است
 - [good site for training your hacking skills](http://root-me.org) - سایت خوبی برای قوی کردن مهارت های هک و امنیت
 - [A curated list of awesome Hacking tutorials, tools and resources](http://github.com/carpedm20/awesome-hacking) - لیست مفیدی از منابع و آموزش های مهارتهای مرتبط با هک

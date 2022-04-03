@@ -1,6 +1,7 @@
 # Design Patterns 
 
 - [Main](./README.md) - بازگشت به صفحه اصلی 
+- [Discover programming and design patterns with the Python language. Throughout this series, we will program small games to introduce basics concepts.](http://patternsgameprog.com/series/discover-python-and-patterns) - مفاهیم پایه‌ای و کاربرد design pattern های command و observer را در یک بازی ساده پایتون که به صورت سری آموزش‌های پی در پی هست یاد بگیرید.
 - [Design pattern & refactoring](http://sourcemaking.com) - سایتی جهت آموزش و یادگیری design pattern ها در دنیای نرم افزار
 - [collection of design patterns in Python](http://github.com/faif/python-patterns) - مجموعه ای از پیاده سازی های design pattern های مختلف با زبان برنامه نویسی پایتون
 - [simplified explanation of Design Patterns](http://github.com/kamranahmedse/design-patterns-for-humans) - توضیحات ساده شده ای از انواع Design Pattern ها

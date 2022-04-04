@@ -1,6 +1,7 @@
 # Docker 
 
 - [Main](./docker.md) - بازگشت به صفحه اصلی
+- [This course is an introductory course to Docker and docker-compose. The course will also look into what different parts web services consist of, such as reverse proxies, databases, etc.](https://devopswithdocker.com) - درسی رایگان برای آموزش مقدماتی docker و docker-compose  برای کارهای روزمره. همچنین قسمت‌ّهای مختلف سرویس‌های وب مثل reverse proxy و دیتابیس‌ها هم بررسی می‌شوند
 - [run and play with docker images online](http://play-with-docker.com) - اگر به سرعت اینترنت بالایی دسترسی ندارید بصورت آنلاین با داکر کار کنید
 - [good docker articles in persian language](http://elastico.io) - آموزش های روان و خوبی برای مفاهیم مربوط به داکر 
 - [Web-based Dashboard for managing kubernetes clusters](http://github.com/kubernetes/dashboard) - http://github.com/kubernetes/dashboard

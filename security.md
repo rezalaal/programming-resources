@@ -1,6 +1,7 @@
 # Security 
 
 - [Main](./README.md) - بازگشت به لیست صفحه اصلی
+- [This book is packed with practical and real world examples of SSH tunneling and port redirection in multiple realistic scenarios.](http://github.com/opsdisk/the_cyber_plumbers_handbook) - کتابی که مجموعه فشرده‌ای از مثال‌های عملی و کاربردی برای ssh tunnel و port redirection در سناریوهای واقعی است و بیشتر با دید حمله و برای red team در تیم‌های امنیتی نوشته‌شده‌است. 
 - [ALL IN ONE Hacking Tool For Hackers and security enthusiasts.](https://github.com/Z4nzu/hackingtool) - ابزارهای مختلف برای هک و کارهای امنیتی که در یکجا جمع شده‌اند.
 - [security related articles](http://null-byte.wonderhowto.com) - این سایت پر از مطالب امنیتی است
 - [good site for training your hacking skills](http://root-me.org) - سایت خوبی برای قوی کردن مهارت های هک و امنیت

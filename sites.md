@@ -89,6 +89,7 @@
 
 
 ## Learning and more...
+- [the professional GUI for MongoDB and also free academy inside the site for learning mongodb using this tool.](https://studio3t.com) - ابزار حرفه‌ای گرافیکی برای کار با دیتابیس mongoDB که داخلش یه قسمت آموزش هم داره که mongoDB رو میتونین در کنار استفاده از این ابزار یاد بگیرید.
 - [The courses are offered by University of Helsinki's Department of Computer Science. No prior knowledge is required.](https://www.mooc.fi) - درس‌های رشته کامپیوتر دانشگاه هلسینکی فنلاند که به رایگان در این سایت قرارداده شده‌اند و شامل حوزه‌های مختلفی می‌شود. از امنیت و هوش مصنوعی گرفته تا tdd و کلی مبحث مرتبط به devops
 - [notes for programmers](http://www.coderz.ir) - گاه نوشتی برای برنامه نویسان
 - [learn web development online](http://www.w3schools.com) - یادگیری برنامه نویسی وب هر چند این سایت مورد انتقاد زیادی قرار گرفته است

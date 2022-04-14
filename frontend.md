@@ -3,6 +3,7 @@
 
 
 - [Main](./README.md) - بازگشت به صفحه اصلی 
+- [Ace your web developer interview with focus on fundamental HTML/JS/CSS](https://www.acefrontend.com) - مصاحبه‌های فرانت‌اند رو با مثال‌های عملی این سایت بهتر انجام بدید که به جای تمرکز روی فریمورک‌ها روی دانش پایه HTML/CSS/JS کار میکنه.
 - [List of libraries and tools for frontend web development](http://github.com/moklick/frontend-stuff) - لیستی از ابزار و کتابخانه های کاربردی برای فرانت اند
 - [Frontend Development Bookmarks](http://github.com/dypsilon/frontend-dev-bookmarks) - لینک های مفیدی برای برنامه نویسی front-end
 - [list of frontend development resources](https://gist.github.com/dypsilon/5819504) - لیستی از منابع برای یادگیری بهبود برنامه نویسی سمت کاربر

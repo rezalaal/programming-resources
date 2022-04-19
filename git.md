@@ -1,6 +1,7 @@
 # Git 
 
 
+-[Markdown code for lots of small badges that can be included in a README.md file for a github or bitbucket or gitlab project.](https://naereen.github.io/badges) - لیستی از badge های مختلف برای قراردادن داخل فایل README.md پروژه‌هاتون خیلی جذابن و میتونین توی github یا gitlab یا bitbucket یا بقیه سایت‌های مشابه استفاده کنید.
 - [interactive git learning](http://learngitbranching.js.org) - یادگیری git با آموزش عملی و interactive
 - [learn git by doing a project](http://githowto.com) - یادگیری git با انجام دادن یک پروژه عملی
 - [tutorials for beginners to advanced git users](http://gitready.com) - آموزش مختلف از مبتدی تا پیشرفته برای نرم افزار کنترل ورژن git

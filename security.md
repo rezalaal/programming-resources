@@ -1,6 +1,7 @@
 # Security 
 
 - [Main](./README.md) - بازگشت به لیست صفحه اصلی
+- [Curated collection of books for anybody active in Information Security or with ambitions in any of these subjects.](https://hackerbookshelf.com) - مجموعه‌ای از کتاب‌های حوزه امنیت اطلاعات که هر کسی که علاقه‌مند به این حوزه‌ها باشه میتونه بخونه و کلی چیز جدید یاد بگیره.
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF.](https://github.com/swisskyrepo/PayloadsAllTheThings) - لیستی از payload ها و روش‌های دورزدن معروف و مفید مخصوص امنیت در وب اپلیکیشن‌ها که با مثال و توضیحات مختلف ارائه شده.
 - [A curated checklist of 300+ tips for protecting digital security and privacy in 2022.](http://github.com/Lissy93/personal-security-checklist) - لیستی شامل بیش از ۳۰۰ نکته و به‌روزترین ابزار برای حفاظت از امنیت دیجیتال و حریم خصوصی در فضای اینترنت در سال ۲۰۲۲
 - [This book is packed with practical and real world examples of SSH tunneling and port redirection in multiple realistic scenarios.](http://github.com/opsdisk/the_cyber_plumbers_handbook) - کتابی که مجموعه فشرده‌ای از مثال‌های عملی و کاربردی برای ssh tunnel و port redirection در سناریوهای واقعی است و بیشتر با دید حمله و برای red team در تیم‌های امنیتی نوشته‌شده‌است. 

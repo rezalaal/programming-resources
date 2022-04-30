@@ -1,6 +1,8 @@
 # Python 
 
 - [Main](./README.md) - بازگشت به صفحه اصلی 
+- [Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.](https://ccbv.co.uk) - داکیومنت خوبی برای class-base view توی جنگو که به همراه متدها و attribute های هر قسمت کامل توضیح داده شده.
+- [When Python can’t thread: a deep-dive into the GIL’s impact.](https://pythonspeed.com/articles/python-gil) - چرا در پایتون به معنای واقعی نمیتوانیم thread داشته باشیم. توی این مقاله جالب بصورت ملموس در مورد GIL در پایتون صحبت میشه.
 - [python programming Tutorial](http://www.programiz.com/python-programming) - سایتی برای یادگیری زبان برنامه نویسی پایتون
 - [A byte of Python online version](http://python.swaroopch.com) - کتاب آنلاین a byte of python
 - [python learning resources](https://github.com/PyBulls/learning-resources) - منابع آموزشی پایتون

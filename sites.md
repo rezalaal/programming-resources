@@ -81,6 +81,7 @@
 
 
 ## TDD 
+- [Free test automation courses with videos, transcripts, quizzes, credits, ranks badges, and certificates! with different learning paths.](https://testautomationu.applitools.com) - درس‌های رایگان برای اتوماتیک‌کردن تست‌ها با ابزارهای مختلف مثل selenium با learning path های مختلف و متنوع به صورت رایگان
 - [Programming Katas to improve TDD skills.](http://codingdojo.org/kata) - مسایل کوچک برنامه نویسی برای دست گرمی و تمرین برنامه نویسی تست محور (TDD)
 - [learn scala with tdd approach and interactive](http://scala-exercises.org) - یادگیری زبان اسکالا با آموزشها و تمرینهای interactive
 - [TDD for the Python, Django and more](http://www.obeythetestinggoat.com) - کتاب رایگان آنلاین آموزش برنامه نویسی آزمون محور (TDD) با پایتون

@@ -90,6 +90,7 @@
 
 
 ## Learning and more...
+- [A curated interactive space for aspiring programmers to learn and master their coding skills.](https://www.scaler.com/topics) - مجموعه‌ای از آموزش‌های رایگان interactive زبان‌های مختلف مثل جاوا , پایتون و جاوااسکریپت
 - [Grinding through hundreds of medium and hard questions sucks.  Firecode.io make interview prep fun, effective & durable by providing a friendly community of learners that help each other write better code.](https://www.firecode.io) - یه سایت نسبتا جدید واسه یادگیری و تقویت حل مساله سوال های مصاحبه عالیه و ریکامندیشن سیستم داره و با توجه به سطح عملکرد شما سوال‌های بعدی رو پیشنهاد میده و یه جورایی وجه تمایزش با بقیه پلتفرم‌های مشابه نظیر leetcode عه
 - [the professional GUI for MongoDB and also free academy inside the site for learning mongodb using this tool.](https://studio3t.com) - ابزار حرفه‌ای گرافیکی برای کار با دیتابیس mongoDB که داخلش یه قسمت آموزش هم داره که mongoDB رو میتونین در کنار استفاده از این ابزار یاد بگیرید.
 - [The courses are offered by University of Helsinki's Department of Computer Science. No prior knowledge is required.](https://www.mooc.fi) - درس‌های رشته کامپیوتر دانشگاه هلسینکی فنلاند که به رایگان در این سایت قرارداده شده‌اند و شامل حوزه‌های مختلفی می‌شود. از امنیت و هوش مصنوعی گرفته تا tdd و کلی مبحث مرتبط به devops
